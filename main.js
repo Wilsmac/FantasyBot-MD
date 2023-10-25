@@ -108,7 +108,7 @@ const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
 logger: P({ level: 'silent'}),
-browser: ['TOKITO-BOT-MD','Edge','2.0.0']
+browser: ['Tokito-Bot-MD','Edge','2.0.0']
 }
 
 global.conn = makeWASocket(connectionOptions)
@@ -310,7 +310,7 @@ const listaDirectorios = readdirSync('./TokitoJadiBot/');
 let SBprekey = [];
 listaDirectorios.forEach(directorio => {
 if (statSync(`./TokitoJadiBot/${directorio}`).isDirectory()) {
-const DSBPreKeys = readdirSync(`./TokitoJadiBot/${directorio}`).filter(fileInDir => {
+const DSBPreKeys = readdirSync(`./GataJadiBot/${directorio}`).filter(fileInDir => {
 return fileInDir.startsWith('pre-key-') || fileInDir.startsWith('app-') || fileInDir.startsWith('session-')
 })
 SBprekey = [...SBprekey, ...DSBPreKeys];
@@ -328,7 +328,7 @@ console.log(chalk.bold.red(lenguajeGB.smspurgeSessionSB3() + err))
 }}
 
 function purgeOldFiles() {
-const directories = ['./TokitoSession/', './TokitoJadiBot/']
+const directories = ['./TokitoSession/', './GataJadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
