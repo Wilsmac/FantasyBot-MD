@@ -309,14 +309,14 @@ try {
 const listaDirectorios = readdirSync('./tokitoJadiBot/');
 let SBprekey = [];
 listaDirectorios.forEach(directorio => {
-if (statSync(`./TokitoJadiBot/${directorio}`).isDirectory()) {
-const DSBPreKeys = readdirSync(`./TokitoJadiBot/${directorio}`).filter(fileInDir => {
+if (statSync(`./GataJadiBot/${directorio}`).isDirectory()) {
+const DSBPreKeys = readdirSync(`./GataJadiBot/${directorio}`).filter(fileInDir => {
 return fileInDir.startsWith('pre-key-') || fileInDir.startsWith('app-') || fileInDir.startsWith('session-')
 })
 SBprekey = [...SBprekey, ...DSBPreKeys];
 DSBPreKeys.forEach(fileInDir => {
 if (fileInDir !== 'creds.json') {
-unlinkSync(`./tokitoJadiBot/${directorio}/${fileInDir}`)
+unlinkSync(`./GataJadiBot/${directorio}/${fileInDir}`)
 }})
 }})
 if (SBprekey.length === 0) {
@@ -328,7 +328,7 @@ console.log(chalk.bold.red(lenguajeGB.smspurgeSessionSB3() + err))
 }}
 
 function purgeOldFiles() {
-const directories = ['./TokitoSession/', './TokitoJadiBot/']
+const directories = ['./TokitoSession/', './GataJadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
