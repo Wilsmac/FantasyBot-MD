@@ -135,7 +135,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ˙·.˙··.˙·.┊ *°*+↷❯ ${joincount}
 ˙·.˙˙·.˙·.╰──────〰─◠─〰─◠─
 ${readMore}
-*╭━〔 INFORMACIÓN DE GATABOT 〕⬣*
+*╭━〔 INFORMACIÓN DE TOKITOBOT-MD 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
 ┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
 ┃💫➺ _${usedPrefix}donar | donate_
@@ -151,7 +151,7 @@ ${readMore}
 
 *╭━〔 FUNCIÓN SUB BOT 〕━⬣*
 ┃ *Ya puedes convertir tú*
-┃ *Número en GataBot!!*
+┃ *Número en TOKITOBOT-MD!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}serbot | jadibot_
 ┃💻 _${usedPrefix}serbot --code | jadibot --code_
@@ -169,7 +169,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a GataBot en Grupos!!*
+┃ *Une a TOKITOBOT-MD en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
