@@ -309,14 +309,14 @@ try {
 const listaDirectorios = readdirSync('./GataJadiBot/');
 let SBprekey = [];
 listaDirectorios.forEach(directorio => {
-if (statSync(`./TokitoJadiBot/${directorio}`).isDirectory()) {
-const DSBPreKeys = readdirSync(`./TokitoJadiBot/${directorio}`).filter(fileInDir => {
+if (statSync(`./GataBotJadiBot/${directorio}`).isDirectory()) {
+const DSBPreKeys = readdirSync(`./GataBotJadiBot/${directorio}`).filter(fileInDir => {
 return fileInDir.startsWith('pre-key-') || fileInDir.startsWith('app-') || fileInDir.startsWith('session-')
 })
 SBprekey = [...SBprekey, ...DSBPreKeys];
 DSBPreKeys.forEach(fileInDir => {
 if (fileInDir !== 'creds.json') {
-unlinkSync(`./TokitoJadiBot/${directorio}/${fileInDir}`)
+unlinkSync(`./GataBotJadiBot/${directorio}/${fileInDir}`)
 }})
 }})
 if (SBprekey.length === 0) {
