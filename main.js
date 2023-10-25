@@ -306,17 +306,17 @@ unlinkSync(`./TokitoSession/${files}`)
 
 function purgeSessionSB() {
 try {
-const listaDirectorios = readdirSync('./GataJadiBot/');
+const listaDirectorios = readdirSync('./tokitoJadiBot/');
 let SBprekey = [];
 listaDirectorios.forEach(directorio => {
-if (statSync(`./GataBotJadiBot/${directorio}`).isDirectory()) {
-const DSBPreKeys = readdirSync(`./GataBotJadiBot/${directorio}`).filter(fileInDir => {
+if (statSync(`./TokitoJadiBot/${directorio}`).isDirectory()) {
+const DSBPreKeys = readdirSync(`./TokitoJadiBot/${directorio}`).filter(fileInDir => {
 return fileInDir.startsWith('pre-key-') || fileInDir.startsWith('app-') || fileInDir.startsWith('session-')
 })
 SBprekey = [...SBprekey, ...DSBPreKeys];
 DSBPreKeys.forEach(fileInDir => {
 if (fileInDir !== 'creds.json') {
-unlinkSync(`./GataBotJadiBot/${directorio}/${fileInDir}`)
+unlinkSync(`./tokitoJadiBot/${directorio}/${fileInDir}`)
 }})
 }})
 if (SBprekey.length === 0) {
