@@ -5,11 +5,11 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-RUN git clone https://github.com/GataNina-Li/GataBot-MD
+RUN git clone https://github.com/Wilsmac/TOKITOBOT-MD
 
-WORKDIR /root/GataBot-MD
+WORKDIR /root/TOKITOBOT-MD
 
-COPY ./root/GataBot-MD
+COPY ./root/TOKITOBOT-MD
 
 RUN yarn install
 
