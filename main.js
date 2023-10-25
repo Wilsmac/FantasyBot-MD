@@ -101,7 +101,7 @@ loadChatgptDB();
 
 /* ------------------------------------------------*/
 
-global.authFile = `TokitoSession`
+global.authFile = `GataBotSession`
 const { state, saveState, saveCreds } = await useMultiFileAuthState(global.authFile)
 
 const connectionOptions = {
@@ -300,7 +300,7 @@ return file.startsWith('pre-key-') || file.startsWith('session-') || file.starts
 })
 prekey = [...prekey, ...filesFolderPreKeys]
 filesFolderPreKeys.forEach(files => {
-unlinkSync(`./TokitoSession/${files}`)
+unlinkSync(`./GataBotession/${files}`)
 })
 } 
 
@@ -328,7 +328,7 @@ console.log(chalk.bold.red(lenguajeGB.smspurgeSessionSB3() + err))
 }}
 
 function purgeOldFiles() {
-const directories = ['./TokitoSession/', './GataJadiBot/']
+const directories = ['./GataBotSession/', './GataJadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
