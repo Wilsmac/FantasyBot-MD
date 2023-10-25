@@ -157,7 +157,7 @@ global.mg = '⊱ 𝐿𝑂 𝑈𝑆𝑂 𝑀𝐴𝐿 ⊱\n\n'
 global.mal = mg
 
 global.eeg = '⊱ 𝑅𝐸𝑃𝑂𝑅𝑇𝐸 ⊱\n\n'
-global.envio = eee
+global.envio = eeg
 
 global.eg = '⊱ 𝐸𝑋𝐼𝑇𝑂 ⊱\n\n'
 global.exito = eg
