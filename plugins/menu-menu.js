@@ -100,12 +100,13 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *${lenguajeGB['smsBotonM7']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM7']().slice(1).toLowerCase()} »* ${user.premiumTime > 0 ? '✅' : '❌ _' + usedPrefix + 'pase premium_'}
 
 ╭ - ̗̀↳ꕤ—— 𖤍 —— ꕤ╮
-┃ *< *pareja />*
+┃ *< *pareja* />*
 ├┈・─・﹕₊˚ ✦・୨୧・
 ┣  *${lenguajeGB['smsPareja']()}* ${pareja ? `\n*»* ${name} 💕 ${conn.getName(pareja)}` : `🛐 ${lenguajeGB['smsResultPareja']()}`}
 ╰ - ̗̀↳ꕤ—— 𖤍 —— ꕤ╯
+
 ╭ - ̗̀↳ꕤ—— 𖤍 —— ꕤ╮
-┃ *< *pareja />*
+┃ *< *pasatiempos* />*
 ├┈・─・﹕₊˚ ✦・୨୧・
 ┣  *Pasatiempo(s)* ➺ ${user.pasatiempo === 0 ? '*Sin Registro*' : user.pasatiempo + '\n'}
 ╰ - ̗̀↳ꕤ—— 𖤍 —— ꕤ╯
