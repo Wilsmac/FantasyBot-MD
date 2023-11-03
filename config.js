@@ -19,6 +19,11 @@ global.owner = [
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
+//BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
+//Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
+global.botNumberCode = "" //Ejemplo: +50258115623
+global.confirmCode = ""
+
 global.mods = []
 global.prems = ["50258115623"]
 //key de violetics
@@ -27,7 +32,7 @@ global.Key360 = ["964f-0c75-7afc"]
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
+//Add the language you want TOKITOBOT-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
