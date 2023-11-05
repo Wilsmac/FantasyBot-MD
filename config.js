@@ -115,7 +115,7 @@ global.author = "𝑊𝐼𝐿𝑆𝑀𝐴𝐶 𝑌\n𝑈𝑁𝐼𝐹𝐼𝑁𝐸
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = "1.4.9"
+global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
 global.gt = "𝑇𝑂𝐾𝐼𝑇𝑂-𝐵𝑂𝑇-𝑀𝐷"
