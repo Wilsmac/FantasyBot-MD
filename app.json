@@ -1,7 +1,7 @@
 {
-  "name": "GataBot-MD", 
+  "name": "TOKITOBOT-MD", 
   "description": "Super Bot WhatsApp",
-  "repository": "https://github.com/GataNina-Li/GataBot-MD",
+  "repository": "https://github.com/Wilsmac/TOKITOBOT-MD",
   "logo": "https://i.imgur.com/8fK4h6F.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
