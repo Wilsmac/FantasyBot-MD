@@ -575,11 +575,16 @@ ${readMore}
 ┣ ඬ⃟ 🌺  _${usedPrefix}trabajar | work_
 ╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━━━[ TOP EN GATABOT ]━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷ ᴛᴏᴘ ɢʟᴏʙᴀʟ
+├• ✐; ₊˚✦୧︰  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+ 『𝑇𝑂𝑃 𝐺𝐿𝑂𝐵𝐴𝐿𝐸𝑆』
 ┃ *Averigua en que Top te encuentras!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🏆➺ _${usedPrefix}top | lb | leaderboard_
 *╰━━━━━━━━━━━━⬣*
+
 
 *╭━[ STICKERS Y FILTROS ]━⬣*
 ┃ *Realiza stickers o crea*
@@ -604,56 +609,74 @@ ${readMore}
 ┃🎐 _${usedPrefix}cs *:* cs2_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━[ MODIFICAR STICKERS ]━⬣*
-┃ *Personaliza la información del Sticker!!*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+『𝑀𝑂𝐷𝐼𝐹𝐼𝐶𝐴𝐹 𝑆𝑇𝐼𝐶𝐾𝐸𝑅』
+├┈ ↷  ᴍᴏᴅɪғɪᴄᴀʀ
+├• ✐; ₊˚✦୧︰  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃💡 _${usedPrefix}wm *packname|author*_
-┃💡 _${usedPrefix}wm *texto1|texto2*_
-*╰━━━━━━━━━━━━⬣*
+┣ ඬ⃟ 🌺_${usedPrefix}wm *packname|author*_
+┣ ඬ⃟ 🌺_${usedPrefix}wm *texto1|texto2*_
+*╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ* 
 
-*╭━[ STICKERS DINÁMICOS ]━⬣*
-┃ *Realiza acciones con Stickers*
-┃ *Etiquetando a alguien!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃⛱️ _${usedPrefix}palmaditas | pat *@tag*_
-┃⛱️ _${usedPrefix}bofetada | slap *@tag*_
-┃⛱️ _${usedPrefix}golpear *@tag*_
-┃⛱️ _${usedPrefix}besar | kiss *@tag*_
-┃⛱️ _${usedPrefix}alimentar | food *@tag*_
-*╰━━━━━━━━━━━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷  Sᴛɪᴄᴋᴇʀs
+├• ✐; ₊˚✦୧︰  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ⃟ 🌺 _${usedPrefix}palmaditas | pat *@tag*_
+┣ ඬ⃟ 🌺 _${usedPrefix}bofetada | slap *@tag*_
+┣ ඬ⃟ 🌺 _${usedPrefix}golpear *@tag*_
+┣ ඬ⃟ 🌺 _${usedPrefix}besar | kiss *@tag*_
+┣ ඬ⃟ 🌺 _${usedPrefix}alimentar | food *@tag*_
+*╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ* 
 
-*╭━[ MENU PARA PROPIETARIO/A ]━⬣*
-┃ *Comandos solo para Propietario/a!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃💎 _${usedPrefix}join *enlace*_
-┃💎 _${usedPrefix}unete *enlace*_
-┃💎➺ _${usedPrefix}dardiamantes *cantidad*_
-┃💎➺ _${usedPrefix}darxp *cantidad*_
-┃💎➺ _${usedPrefix}dargatacoins *cantidad*_
-┃💎➺ _${usedPrefix}addprem | userpremium *@tag* *cantidad*_
-┃💎➺ _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_
-┃💎➺ _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_
-┃💎➺ _${usedPrefix}addprem4 | userpremium4 *@tag* *cantidad*_
-┃💎➺ _${usedPrefix}idioma | language_
-┃💎➺ _${usedPrefix}cajafuerte_
-┃💎➺ _${usedPrefix}comunicar | broadcastall | bc *texto*_
-┃💎➺ _${usedPrefix}broadcastchats | bcc *texto*_
-┃💎➺ _${usedPrefix}comunicarpv *texto*_
-┃💎➺ _${usedPrefix}broadcastgc *texto*_
-┃💎➺ _${usedPrefix}comunicargrupos *texto*_
-┃💎➺ _${usedPrefix}borrartmp | cleartmp_
-┃💎➺ _${usedPrefix}delexp *@tag*_
-┃💎➺ _${usedPrefix}delgatacoins *@tag*_
-┃💎➺ _${usedPrefix}deldiamantes *@tag*_
-┃💎➺ _${usedPrefix}reiniciar | restart_
-┃💎➺ _${usedPrefix}ctualizar | update_
-┃💎➺ _${usedPrefix}addprem | +prem *@tag*_
-┃💎➺ _${usedPrefix}delprem | -prem *@tag*_
-┃💎➺ _${usedPrefix}listapremium | listprem_
-┃💎➺ _${usedPrefix}añadirdiamantes *@tag cantidad*_
-┃💎➺ _${usedPrefix}añadirxp *@tag cantidad*_
-┃💎➺ _${usedPrefix}añadirgatacoins *@tag cantidad*_
-*╰━━━━━━━━━━━━⬣*`.trim()
+
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷ *Para mi creador(a) y*
+├• ✐; ₊˚✦୧︰*Mᴏᴅᴇʀᴀᴅᴏʀᴇs.*
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ⃟ 🌺 _${usedPrefix}autoadmin_
+┣ ඬ⃟ 🌺 _${usedPrefix}grouplist_
+┣ ඬ⃟ 🌺 _${usedPrefix}chetar_
+┣ ඬ⃟ 🌺 _${usedPrefix}leavegc_
+┣ ඬ⃟ 🌺 _${usedPrefix}cajafuerte_
+┣ ඬ⃟ 🌺 _${usedPrefix}blocklist_
+┣ ඬ⃟ 🌺 _${usedPrefix}addowner *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}delowner *<@tag*_
+┣ ඬ⃟ 🌺 _${usedPrefix}block *<@tag*_
+┣ ඬ⃟ 🌺 _${usedPrefix}unblock *<@tag*_
+┣ ඬ⃟ 🌺 _${usedPrefix}msg *<texto>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}banchat_
+┣ ඬ⃟ 🌺 _${usedPrefix}unbanchat_
+┣ ඬ⃟ 🌺 _${usedPrefix}resetuser *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}banuser *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}unbanuser *_@tag_*
+┣ ඬ⃟ 🌺 _${usedPrefix}dardiamantes *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}añadirxp *<@tag> 
+┣ ඬ⃟ 🌺 _${usedPrefix}banuser *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}bc *<texto>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}bcchats *<texto>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}bcgc *<texto>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}bcgc2 *<audio>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}bcgc2 *<video>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}bcgc2 *<imagen>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}bcbot *<texto>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}cleartpm_
+┣ ඬ⃟ 🌺 _${usedPrefix}restart_
+┣ ඬ⃟ 🌺 _${usedPrefix}update_
+┣ ඬ⃟ 🌺 _${usedPrefix}banlist_
+┣ ඬ⃟ 🌺 _${usedPrefix}addprem *<@tag> 
+┣ ඬ⃟ 🌺 _${usedPrefix}addprem2 *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}addprem3 *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}addprem4 *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}delprem *<@tag>*_
+┣ ඬ⃟ 🌺 _${usedPrefix}listcmd_
+┣ ඬ⃟ 🌺 _*${usedPrefix}setppbot*_
+┣ ඬ⃟ 🌺 _${usedPrefix}addcmd *<texto> 
+┣ ඬ⃟ 🌺 _${usedPrefix}delcmd
+┣ ඬ⃟ 🌺 _${usedPrefix}saveimage
+┣ ඬ⃟ 🌺 _${usedPrefix}viewimage
+╰┉ͦ━ᷫ━ⷭ┈ ⃘⵿݂۪۪۪࣭࣭፝۬۬۬͞💙ꫂ❀ᰰ᷒|²⁰|²|²³ ♡┈⊷ꫂ፝۬۬۬͞ᜓ⃘݂۪۪۪࣭࣭.─❤️⃟ᬽ፝֟━❥ᰰຼ᭢╯*`.trim()
 await conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
