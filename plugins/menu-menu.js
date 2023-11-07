@@ -135,55 +135,54 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ˙·.˙˙·.˙·.╰──────〰─◠─〰─◠─ 
 
 ${readMore}
-*╭━〔 INFORMACIÓN DE GATABOT 〕⬣*
-┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
-┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
-┃💫➺ _${usedPrefix}donar | donate_
-┃💫➺ _${usedPrefix}listagrupos | grouplist_
-┃💫➺ _${usedPrefix}estado | heygata | status_
-┃💫➺ _${usedPrefix}infogata | infobot_
-┃💫➺ _${usedPrefix}instalarbot | installbot_
-┃💫➺ _${usedPrefix}creadora | owner_
-┃💫➺ _${usedPrefix}velocidad | ping_
-┃💫➺ _Bot_ 
-┃💫➺ _términos y condiciones_
-*╰━━━━━━━━━━━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷   ɪɴғᴏ
+├• ✐; ₊˚✦୧︰ Bᴏᴛ .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ⃟ 🌺 _${usedPrefix}terminosycondiciones_
+┣ ඬ⃟ 🌺 _${usedPrefix}grupos_
+┣ ඬ⃟ 🌺 _${usedPrefix}estado_
+┣ ඬ⃟ 🌺 _${usedPrefix}infobot_
+┣ ඬ⃟ 🌺 _${usedPrefix}speedtest_
+┣ ඬ⃟ 🌺 _${usedPrefix}donar_
+┣ ඬ⃟ 🌺 _${usedPrefix}owner_
+┣ ඬ⃟ 🌺 _${usedPrefix}script_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━〔 FUNCIÓN SUB BOT 〕━⬣*
-┃ *Ya puedes convertir tú*
-┃ *Número en GataBot!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃💻 _${usedPrefix}serbot | jadibot_
-┃💻 _${usedPrefix}serbot --code | jadibot --code_
-┃💻 _${usedPrefix}bots | listjadibots_
-┃💻 _${usedPrefix}detener | stop_
-┃💻 _${usedPrefix}bcbot_
-*╰━━━━━━━━━━━━⬣*
+*╭━『𝐹𝑈𝑁𝐶𝐼𝑂𝑁 𝐷𝐸 𝑆𝐸𝑅 𝑆𝑈𝐵 𝐵𝑂𝑇』* 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┣ 💻 _${usedPrefix}serbot | jadibot_
+┣ 💻 _${usedPrefix}serbot --code | jadibot --code_
+┣ 💻 _${usedPrefix}detener | stop_
+┣ 💻 _${usedPrefix}bcbot_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━〔 REPORTAR COMANDO 〕━⬣*
-┃ *Reporta con este comando de haber*
-┃ *Fallas para poder Solucionar!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃ 💌 _${usedPrefix}reporte *texto*_
-┃ 💌 _${usedPrefix}report *texto*_
-*╰━━━━━━━━━━━━⬣*
+╭ - ̗̀↳ꕤ—— 𖤍 —— ꕤ╮
+┃ *< REPORTAR COMANDO />*
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ⃟ 𖤍 💌 _${usedPrefix}reporte *texto*_
+┣ ඬ⃟ 𖤍 💌 _${usedPrefix}report *texto*_
+╰ - ̗̀↳ꕤ—— 𖤍 —— ꕤ╯
 
-*╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a GataBot en Grupos!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
-┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
-*╰━━━━━━━━━━━━⬣*
 
-*╭━〔 SER PREMIUM 〕━⬣*
-┃ *Convierte en un(a)*
-┃ *Usuario(a) Premium!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃🎟️ _${usedPrefix}listapremium | listprem_
-┃🎟️ _${usedPrefix}pase premium_
-┃🎟️ _${usedPrefix}pass premium_
-*╰━━━━━━━━━━━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷ Uɴᴇ ᴜɴ ʙᴏᴛ
+├• ✐; ₊˚✦୧︰A ᴛᴜ ɢʀᴜᴘᴏ  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ⃟🌹 _${usedPrefix}botemporal *enlace* *cantidad*_
+┣   🌹 _${usedPrefix}addbot *enlace* *cantidad*>
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷sᴇʀ ᴜsᴜᴀʀɪᴀ(ᴏ)
+├• ✐; ₊˚✦୧︰ᴘʀᴇᴍɪᴜᴍ  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ 🌹 _${usedPrefix}listapremium | listprem_
+┣ ඬ 🌹 _${usedPrefix}pase premium_
+┣ ඬ 🌹 _${usedPrefix}pass premium_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
+
+	
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
 ┃🎡➺ _${usedPrefix}mates | matemáticas | math_
 ┃🎡➺ _${usedPrefix}lanzar *cara* | *cruz*
