@@ -541,7 +541,7 @@ user.pasatiempo = user.pasatiempo === 0 ? sinDefinir : user.pasatiempo
 fecha = `${week}, ${date} || `
 hora = `${time}`
 user.tiempo = fecha + hora
-user.name = user.name === 0 ? sinDefinir : user.name + 'ͧͧͧͦꙶͣͤ✓ᚲᴳᴮ'
+user.name = user.name === 0 ? sinDefinir : user.name + 'ͧͧͧͦꙶͣͤ✓ᚲᴄᴅ'
 user.age = user.age === 0 ? sinDefinir : user.age >= 18 ? user.age += ' Años *||* ' + '(Persona Adulta)' : user.age += ' Años *||* ' + '(Persona Joven)'
 user.descripcion = bio	
 }
@@ -562,7 +562,7 @@ text: `🍃 \`\`\`VERIFICACIÓN EXITOSA\`\`\` 🍃
 🛅 *CÓDIGO DE REGISTRO*
 ❱❱ ${sn}\n
 ✅ *INSIGNIA DE VERIFICACIÓN*
-❱❱   *${user.registered === true ? 'ͧͧͧͦꙶͣͤ✓ᚲᴳᴮ' : ''}*\n
+❱❱   *${user.registered === true ? 'ͧͧͧͦꙶͣͤ✓ᚲᴄᴅ' : ''}*\n
 ✨ *NOMBRE* 
 ❱❱ ${user.name}\n
 👀 *DESCRIPCIÓN*
