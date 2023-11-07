@@ -396,15 +396,18 @@ ${readMore}
 ┃🛰️➺ _${usedPrefix}tts es *texto*_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━━━[ LOGOS 🔆 ]━━⬣*
-┃ *Crea Logos o personaliza*
-┃ *la información del Logo!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷  ʟᴏɢᴏs
+├• ✐; ₊˚✦୧︰  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
 ┃🔆 _${usedPrefix}logos *efecto texto*_
 ┃🌅 _${usedPrefix}menulogos2_
-*╰━━━━━━━━━━━━⬣*
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━━━[ EFECTOS ⛺ ]━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷  ᴇғᴇᴄᴛᴏs
+├• ✐; ₊˚✦୧︰  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
 ┃⛺ _${usedPrefix}simpcard *@tag*_
 ┃⛺ _${usedPrefix}hornycard *@tag*_
 ┃⛺ _${usedPrefix}lolice *@tag*_
@@ -412,9 +415,11 @@ ${readMore}
 ┃⛺ _${usedPrefix}itssostupid_
 ┃⛺ _${usedPrefix}pixelar_
 ┃⛺ _${usedPrefix}blur_
-*╰━━━━━━━━━━━━⬣*
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━[ RANDOM | ANIME 🧩 ]━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+┃ *< ℝ𝔸ℕ𝔻𝕆𝕄 />*
+├┈・──・──・﹕₊˚ ✦・୨୧・
 ┃🧩 _${usedPrefix}chica_
 ┃🧩 _${usedPrefix}chico_
 ┃🧩 _${usedPrefix}cristianoronaldo_
@@ -464,103 +469,111 @@ ${readMore}
 ┃🧩 _${usedPrefix}sagiri_
 ┃🧩 _${usedPrefix}sasuke_
 ┃🧩 _${usedPrefix}sakura_
-┃🧩 _${usedPrefix}cosplay_
-*╰━━━━━━━━━━━━⬣*
+🧩 _${usedPrefix}cosplay_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━[ MODIFICAR AUDIO 🧰 ]━⬣*
-┃ *Realiza Modificaciones*
-┃ *al Audio o Nota de Voz!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃🧰 _${usedPrefix}bass_
-┃🧰 _${usedPrefix}blown_
-┃🧰 _${usedPrefix}deep_
-┃🧰 _${usedPrefix}earrape_
-┃🧰 _${usedPrefix}fast_
-┃🧰 _${usedPrefix}fat_
-┃🧰 _${usedPrefix}nightcore_
-┃🧰 _${usedPrefix}reverse_
-┃🧰 _${usedPrefix}robot_
-┃🧰 _${usedPrefix}slow_
-┃🧰 _${usedPrefix}smooth_
-┃🧰 _${usedPrefix}tupai_
-*╰━━━━━━━━━━━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷ Eғᴇᴄᴛᴏsᴅ ᴅᴇ 
+├• ✐; ₊˚✦୧︰ Aᴜᴅɪᴏs .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┃*- 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴 𝙰 𝙰𝚄𝙳𝙸𝙾 𝙾 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉*
+┣ ඬ⃟ 🌺 _${usedPrefix}bass_
+┣ ඬ⃟ 🌺 _${usedPrefix}blown_
+┣ ඬ⃟ 🌺 _${usedPrefix}deep_
+┣ ඬ⃟ 🌺 _${usedPrefix}earrape_
+┣ ඬ⃟ 🌺 _${usedPrefix}fast_
+┣ ඬ⃟ 🌺 _${usedPrefix}fat_
+┣ ඬ⃟ 🌺 _${usedPrefix}nightcore_
+┣ ඬ⃟ 🌺 _${usedPrefix}reverse_
+┣ ඬ⃟ 🌺 _${usedPrefix}robot_
+┣ ඬ⃟ 🌺 _${usedPrefix}slow_
+┣ ඬ⃟ 🌺 _${usedPrefix}smooth_
+┣ ඬ⃟ 🌺 _${usedPrefix}tupai_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━━[ BÚSQUEDAS 🔍 ]━━⬣*
-┃ *Busca lo que quieres con GataBot!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃🔍➺ _${usedPrefix}animeinfo *texto*_
-┃🔍➺ _${usedPrefix}mangainfo *texto*_
-┃🔍➺ _${usedPrefix}google *texto*_
-┃🔍➺ _${usedPrefix}letra | lirik *texto*_
-┃🔍➺ _${usedPrefix}ytsearch | yts *texto*_
-┃🔍➺ _${usedPrefix}wiki | wikipedia *texto*_
-*╰━━━━━━━━━━━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷  ʙᴜsǫᴜᴇᴅᴀs
+├• ✐; ₊˚✦୧︰  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ⃟_${usedPrefix}animeinfo *texto*_
+┣ 🌺_${usedPrefix}mangainfo *texto*_
+┣ 🌺_${usedPrefix}google *texto*_
+┣ 🌺_${usedPrefix}letra | lirik *texto*_
+┣ 🌺_${usedPrefix}ytsearch | yts *texto*_
+┣ 🌺_${usedPrefix}wiki | wikipedia *texto*_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━━━[ AUDIOS 🔊 ]━━⬣*
-┃ *Visita el Menú de Audios!!*
-┃ *Disfruta de una Gran Variedad*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃➫🔊 _${usedPrefix}audios_
-*╰━━━━━━━━━━━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷  Aᴜᴅɪᴏs
+├• ✐; ₊˚✦୧︰  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ⃟ 🎧 _${usedPrefix}audios_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━━[ HERRAMIENTAS 🛠️ ]━━⬣*
-┃🛠️ _${usedPrefix}afk *motivo*_
-┃🛠️ _${usedPrefix}acortar *url*_
-┃🛠️ _${usedPrefix}calc *operacion math*_
-┃🛠️ _${usedPrefix}del *respondre a mensaje del Bot*_
-┃🛠️ _${usedPrefix}qrcode *texto*_
-┃🛠️ _${usedPrefix}readmore *texto1|texto2*_
-┃🛠️ _${usedPrefix}spamwa *numero|texto|cantidad*_
-┃🛠️ _${usedPrefix}styletext *texto*_
-┃🛠️ _${usedPrefix}traducir *texto*_
-┃🛠️➺ _${usedPrefix}morse codificar *texto*_
-┃🛠️➺ _${usedPrefix}morse decodificar *morse*_
-┃🛠️➺ _${usedPrefix}encuesta | poll *Motivo*_
-┃🛠️➺ _${usedPrefix}horario_
-*╰━━━━━━━━━━━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷ Hᴇʀʀᴀᴍɪᴇɴᴛᴀs
+├• ✐; ₊˚✦୧︰  .
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┣ ඬ⃟ ⚙️ _${usedPrefix}inspect *<link wa_gc>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}chatgpt *<texto>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}delchatgpt
+┣ ඬ⃟ ⚙️ _${usedPrefix}readviewonce *<imagen / video>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}encuesta *<texto1|texto2...>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}afk *<motivo>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}hd *<responde a imagen>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}acortar *<enlace / link / url>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}calc *<operacion math>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}del *<mensaje>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}whatmusic *<audio>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}readqr *<imagen (QR)>*_
+┣ ඬ⃟ ⚙️ _${usedPrefix}qrcode *<texto>*__
+┣ ඬ⃟ ⚙️ _${usedPrefix}horario_
+┣ ඬ⃟ ⚙️ _${usedPrefix}dropmail_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
-*╭━━━[ FUNCIÓN RPG ]━━⬣*
-┃ *Compra, Adquiere Recuersos*
-┃ *Mejora Tú Nivel y Rango!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
-┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
-┃⚗️➺ _${usedPrefix}pase premium_
-┃⚗️➺ _${usedPrefix}pass premium_
-┃⚗️➺ _${usedPrefix}listapremium | listprem_
-┃⚗️➺ _${usedPrefix}transfer *tipo cantidad @tag*_
-┃⚗️➺ _${usedPrefix}dar *tipo cantidad @tag*_
-┃⚗️➺ _${usedPrefix}enviar *tipo cantidad @tag*_
-┃⚗️➺ _${usedPrefix}balance_
-┃⚗️➺ _${usedPrefix}cartera | wallet_
-┃⚗️➺ _${usedPrefix}experiencia | exp_
-┃⚗️➺ _${usedPrefix}top | lb | leaderboard_
-┃⚗️➺ _${usedPrefix}nivel | level | lvl_
-┃⚗️➺ _${usedPrefix}rol | rango_
-┃⚗️➺ _${usedPrefix}inventario | inventory_
-┃⚗️➺ _${usedPrefix}aventura | adventure_
-┃⚗️➺ _${usedPrefix}caza | cazar | hunt_
-┃⚗️➺ _${usedPrefix}pescar | fishing_
-┃⚗️➺ _${usedPrefix}animales_
-┃⚗️➺ _${usedPrefix}alimentos_
-┃⚗️➺ _${usedPrefix}curar | heal_
-┃⚗️➺ _${usedPrefix}buy_
-┃⚗️➺ _${usedPrefix}sell_
-┃⚗️➺ _${usedPrefix}verificar | registrar_
-┃⚗️➺ _${usedPrefix}perfil | profile_
-┃⚗️➺ _${usedPrefix}myns_
-┃⚗️➺ _${usedPrefix}unreg *numero de serie*_
-┃⚗️➺ _${usedPrefix}minardiamantes | minargemas_
-┃⚗️➺ _${usedPrefix}minargatacoins | minarcoins_
-┃⚗️➺ _${usedPrefix}minarexperiencia | minarexp_
-┃⚗️➺ _${usedPrefix}minar *:* minar2 *:* minar3_
-┃⚗️➺ _${usedPrefix}reclamar | regalo | claim_
-┃⚗️➺ _${usedPrefix}cadahora | hourly_
-┃⚗️➺ _${usedPrefix}cadasemana | semanal | weekly_
-┃⚗️➺ _${usedPrefix}cadames | mes | monthly_
-┃⚗️➺ _${usedPrefix}cofre | abrircofre | coffer_
-┃⚗️➺ _${usedPrefix}trabajar | work_
-*╰━━━━━━━━━━━━⬣*
+✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
+├┈ ↷ Rᴘɢ - Lɪᴍɪᴛᴇs
+├• ✐; ₊˚✦୧︰ Eᴄᴏɴᴏᴍɪᴀ.
+├┈・──・──・﹕₊˚ ✦・୨୧・
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┣ ඬ⃟ 🌺 _${usedPrefix}botemporal *enlace* *cantidad*_
+┣ ඬ⃟ 🌺  _${usedPrefix}addbot *enlace* *cantidad*_
+┣ ඬ⃟ 🌺  _${usedPrefix}pase premium_
+┣ ඬ⃟ 🌺  _${usedPrefix}pass premium_
+┣ ඬ⃟ 🌺  _${usedPrefix}listapremium | listprem_
+┣ ඬ⃟ 🌺  _${usedPrefix}transfer *tipo cantidad @tag*_
+┣ ඬ⃟ 🌺  _${usedPrefix}dar *tipo cantidad @tag*_
+┣ ඬ⃟ 🌺  _${usedPrefix}enviar *tipo cantidad @tag*_
+┣ ඬ⃟ 🌺  _${usedPrefix}balance_
+┣ ඬ⃟ 🌺  _${usedPrefix}cartera | wallet_
+┣ ඬ⃟ 🌺  _${usedPrefix}experiencia | exp_
+┣ ඬ⃟ 🌺  _${usedPrefix}top | lb | leaderboard_
+┣ ඬ⃟ 🌺  _${usedPrefix}nivel | level | lvl_
+┣ ඬ⃟ 🌺  _${usedPrefix}rol | rango_
+┣ ඬ⃟ 🌺  _${usedPrefix}inventario | inventory_
+┣ ඬ⃟ 🌺  _${usedPrefix}aventura | adventure_
+┣ ඬ⃟ 🌺  _${usedPrefix}caza | cazar | hunt_
+┣ ඬ⃟ 🌺  _${usedPrefix}pescar | fishing_
+┣ ඬ⃟ 🌺  _${usedPrefix}animales_
+┣ ඬ⃟ 🌺  _${usedPrefix}alimentos_
+┣ ඬ⃟ 🌺  _${usedPrefix}curar | heal_
+┣ ඬ⃟ 🌺  _${usedPrefix}buy_
+┣ ඬ⃟ 🌺  _${usedPrefix}sell_
+┣ ඬ⃟ 🌺  _${usedPrefix}verificar | registrar_
+┣ ඬ⃟ 🌺  _${usedPrefix}perfil | profile_
+┣ ඬ⃟ 🌺  _${usedPrefix}myns_
+┣ ඬ⃟ 🌺  _${usedPrefix}unreg *numero de serie*_
+┣ ඬ⃟ 🌺  _${usedPrefix}minardiamantes | minargemas_
+┣ ඬ⃟ 🌺  _${usedPrefix}minargatacoins | minarcoins_
+┣ ඬ⃟ 🌺  _${usedPrefix}minarexperiencia | minarexp_
+┣ ඬ⃟ 🌺  _${usedPrefix}minar *:* minar2 *:* minar3_
+┣ ඬ⃟ 🌺  _${usedPrefix}reclamar | regalo | claim_
+┣ ඬ⃟ 🌺  _${usedPrefix}cadahora | hourly_
+┣ ඬ⃟ 🌺  _${usedPrefix}cadasemana | semanal | weekly_
+┣ ඬ⃟ 🌺  _${usedPrefix}cadames | mes | monthly_
+┣ ඬ⃟ 🌺  _${usedPrefix}cofre | abrircofre | coffer_
+┣ ඬ⃟ 🌺  _${usedPrefix}trabajar | work_
+╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
 *╭━━━[ TOP EN GATABOT ]━━⬣*
 ┃ *Averigua en que Top te encuentras!!*
