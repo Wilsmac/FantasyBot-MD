@@ -110,7 +110,7 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝑇𝑂𝐾𝐼𝑇𝑂-𝐵𝑂𝑇-𝑀𝐷"
+global.packname = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.author = "𝑊𝐼𝐿𝑆𝑀𝐴𝐶 𝑌\n𝑈𝑁𝐼𝐹𝐼𝑁𝐸𝐷"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
@@ -118,7 +118,7 @@ global.author = "𝑊𝐼𝐿𝑆𝑀𝐴𝐶 𝑌\n𝑈𝑁𝐼𝐹𝐼𝑁𝐸
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "𝑇𝑂𝐾𝐼𝑇𝑂-𝐵𝑂𝑇-𝑀𝐷"
+global.gt = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.yt = "https://youtube.com/@WilSMaC"
 global.yt2 = "https://www.youtube.com"
 global.ig = "https://www.instagram.com/cmwilmer4"
@@ -176,7 +176,7 @@ global.exito = eg
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
 global.wm = "𝑇𝑂𝐾𝐼𝑇𝑂-𝐵𝑂𝑇-𝑀𝐷 : 𝑊𝐼𝐿𝑆𝑀𝐴𝐶"
-global.igfg = "𝑇𝑂𝐾𝐼𝑇𝑂𝐵𝑂𝑇-𝑀𝐷"
+global.igfg = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
