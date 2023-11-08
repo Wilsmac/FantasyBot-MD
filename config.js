@@ -128,17 +128,17 @@ global.fb = "https://www.facebook.com"
 
 global.nna = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' //CANAL
 global.nn2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //anime y social
-global.nna2 = 'https://chat.whatsapp.com/GK9jQ7sY7XRGxhu6UoTOle' //información
-global.nn = 'https://chat.whatsapp.com/Kz78HPcA1f9AFexoaQNGm5' //Grupo 1 ✓
+global.nna2 = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //información
+global.nn = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //Grupo 1 ✓
 global.nnn = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 2 ^^
 global.nnnt = 'https://chat.whatsapp.com/Esych39oXGV0q8YLwMPqVd' //Stickers
-global.nnntt = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //Grupo 7 COL
+global.nnntt = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO'; //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //Grupo 7 COL
 global.nnnttt3 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //A.T.M.M
+global.nnnttt5 = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //A.T.M.M
 global.paypal = 'https://paypal.me'
 global.asistencia = 'Wa.me/50258115623' //Dudas? escríbeme...
 
