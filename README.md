@@ -1,17 +1,16 @@
-<img src="https://telegra.ph/file/4257e73c23a12f04717b3.jpg" height=",70px"> 
+
 </p>
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fenix-Bot-CD}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{FantasyBot-MD}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
 
 </p>
 <p align="center"> 
-<a href="https://github.com/Wilsmac/Fenix-Bot-CD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷++;𝐻𝑂𝐿𝐴,+𝐺𝑅𝐴𝐶𝐼𝐴𝑆+𝑃𝑂𝑅+𝑉𝐼𝑆𝐼𝑇𝐴𝑅+𝐸𝐿+𝑅𝐸𝑃𝑂𝑆𝐼𝑇𝑂𝑅𝐼𝑂" height="120px"></a> 
+<a href="https://github.com/Wilsmac/FantasyBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷++;𝐻𝑂𝐿𝐴,+𝐺𝑅𝐴𝐶𝐼𝐴𝑆+𝑃𝑂𝑅+𝑉𝐼𝑆𝐼𝑇𝐴𝑅+𝐸𝐿+𝑅𝐸𝑃𝑂𝑆𝐼𝑇𝑂𝑅𝐼𝑂" height="120px"></a> 
 </p>
  
 
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=Fenix-Bot-CD++;Grupos+Oficiales+de" height="100px"></a> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;Grupos+Oficiales+de" height="100px"></a> 
 </p>
  
 
@@ -22,7 +21,7 @@
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=Fenix-Bot-CD++;𝐵𝑜𝑡𝑠+𝑂𝑓𝑖𝑐𝑎𝑙𝑒𝑠+𝑑𝑒" height="100px"></a> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;𝐵𝑜𝑡𝑠+𝑂𝑓𝑖𝑐𝑎𝑙𝑒𝑠+𝑑𝑒" height="100px"></a> 
 </p>
 
 <a href="https://api.whatsapp.com/send/?phone=50250101139&text=.estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -34,7 +33,7 @@
 <p align="center"> 
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=Fenix-Bot-CD++;𝐶𝑂𝑁𝐹𝐼𝐺𝑈𝑅𝐴𝐶𝐼𝑂́𝑁+𝑃𝐴𝑅𝐴" height="100px"></a> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫=++;𝐶𝑂𝑁𝐹𝐼𝐺𝑈𝑅𝐴𝐶𝐼𝑂́𝑁+𝑃𝐴𝑅𝐴" height="100px"></a> 
 
  <a href="https://github.com/Wilsmac/Fenix-Bot-CD/fork" target="black"><img src="https://img.shields.io/badge/♥️-clona_el_repositorio-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
 
