@@ -110,8 +110,9 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
+global.pegatina = `┏━━━━━━°❀•° :°: °•❀°━━━━━━┓\n𝐁𝐎𝐓 𝐔𝐒𝐀𝐃𝐎: 𝐅𝐚𝐧𝐭𝐚𝐬𝐲𝐁𝐨𝐭-𝐌𝐃\n╔═════ °❀•°✮°•❀° ══════╗\n 𝑃𝑅𝑂𝑃𝐼𝐸𝑇𝐴𝑅𝐼𝑂(𝐀) 𝗪𝗜𝗟𝗦𝗠𝗔𝗖\n╚═════ °❀•°✮°•❀° ══════╝`
 global.packname = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
-global.author = "𝑊𝐼𝐿𝑆𝑀𝐴𝐶 𝑌\n𝑈𝑁𝐼𝐹𝐼𝑁𝐸𝐷"
+global.author = `𝐵𝑦\n𝗪\n𝗜\n𝗟\n𝗦\n𝗠\n𝗔\n𝗖\n😻`
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -122,7 +123,7 @@ global.gt = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.yt = "https://youtube.com/@WilSMaC"
 global.yt2 = "https://www.youtube.com"
 global.ig = "https://www.instagram.com/cmwilmer4"
-global.md = "https://github.com/Wilsmac/TOKITOBOT-MD"
+global.md = "https://github.com/Wilsmac/FantasyBot-MD"
 global.fb = "https://www.facebook.com"
 
 global.nna = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' //CANAL
