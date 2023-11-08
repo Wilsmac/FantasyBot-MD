@@ -94,7 +94,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd
-> cd Fenix-Bot-CD
+> cd FantasyBot-MD
 > npm start
 ```
 
@@ -107,7 +107,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> rm -rf FenixSession
+> rm -rf GataBotSession 
 > npm start
 ```
 
