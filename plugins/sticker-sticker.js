@@ -15,7 +15,7 @@ if (new Date - user.lastmiming < 10000) return await conn.reply(m.chat, `*ESPERA
     if (/webp|image|video/g.test(mime)) {
       if (/video/g.test(mime)) if ((q.msg || q).seconds > 11) return m.reply('『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵\n\n𝑬𝑳 𝑽𝑰𝑫𝑬𝑶 𝑵𝑶 𝑫𝑬𝑩𝑬 𝑫𝑼𝑹𝑨𝑹 𝑴𝑨𝑺 𝑫𝑬 *7* 𝑺𝑬𝑮𝑼𝑵𝑫𝑶𝑺')
       let img = await q.download?.()
-      if (!img) throw `*『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵』*\n\n𝑹𝑬𝑪𝑼𝑬𝑹𝑫𝑨 𝑹𝑬𝑺𝑷𝑶𝑵𝑫𝑬𝑹 𝑨 𝑼𝑵𝑨 𝑰𝑴𝑨𝑮𝑬𝑵 𝑶𝑯 𝑸𝑼𝑬 𝑻𝑬𝑹𝑴𝑰𝑵𝑬 𝑬𝑵 .png*${usedPrefix + command}*_`
+      if (!img) throw `*『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵』*\n\n𝑹𝑬𝑪𝑼𝑬𝑹𝑫𝑨 𝑹𝑬𝑺𝑷𝑶𝑵𝑫𝑬𝑹 𝑨 𝑼𝑵𝑨 𝑰𝑴𝑨𝑮𝑬𝑵 𝑶𝑯 𝑸𝑼𝑬 𝑻𝑬𝑹𝑴𝑰𝑵𝑬 𝑬𝑵 .png ?𝑽𝑼𝑬𝑳𝑽𝑬𝑨 𝑨 𝑰𝑵𝑻𝑬𝑵𝑻𝑨𝑹𝑳𝑶!!*${usedPrefix + command}*_`
       let out
       try {
         stiker = await sticker(img, false, global.pegatina, global.creador)
@@ -40,7 +40,7 @@ if (new Date - user.lastmiming < 10000) return await conn.reply(m.chat, `*ESPERA
     if (!stiker) stiker = e
   } finally {
      if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: wm, body: `h`, mediaType: 2, sourceUrl: nn, thumbnail: imagen1}}}, { quoted: m })
-    else throw `『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵』\n\n𝑹𝑬𝑪𝑼𝑬𝑹𝑫𝑨 𝑹𝑬𝑺𝑷𝑶𝑵𝑫𝑬𝑹 𝑨 𝑼𝑵𝑨 𝑰𝑴𝑨𝑮𝑬𝑵 𝑶𝑯 𝑸𝑼𝑬 𝑻𝑬𝑹𝑴𝑰𝑵𝑬 𝑬𝑵 *_${usedprefix+ command2}_*png 𝒀    𝑽𝑼𝑬𝑳𝑽𝑨  𝑨 𝑰𝑵𝑻𝑬𝑵𝑻𝑨𝑹𝑳𝑶!!`
+    else throw '『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵』\n\n𝑹𝑬𝑪𝑼𝑬𝑹𝑫𝑨 𝑹𝑬𝑺𝑷𝑶𝑵𝑫𝑬𝑹 𝑨 𝑼𝑵𝑨 𝑰𝑴𝑨𝑮𝑬𝑵 𝑶𝑯 𝑸𝑼𝑬 𝑻𝑬𝑹𝑴𝑰𝑵𝑬 𝑬𝑵 .png 𝒀    𝑽𝑼𝑬𝑳𝑽𝑨  𝑨 𝑰𝑵𝑻𝑬𝑵𝑻𝑨𝑹𝑳𝑶!!'
   }
 user.lastmiming = new Date * 1
 }
