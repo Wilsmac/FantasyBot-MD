@@ -40,7 +40,7 @@ if (new Date - user.lastmiming < 10000) return await conn.reply(m.chat, `*ESPERA
     if (!stiker) stiker = e
   } finally {
      if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: wm, body: `h`, mediaType: 2, sourceUrl: nn, thumbnail: imagen1}}}, { quoted: m })
-    else throw '『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵』\n\n𝑹𝑬𝑪𝑼𝑬𝑹𝑫𝑨 𝑹𝑬𝑺𝑷𝑶𝑵𝑫𝑬𝑹 𝑨 𝑼𝑵𝑨 𝑰𝑴𝑨𝑮𝑬𝑵 𝑶𝑯 𝑸𝑼𝑬 𝑻𝑬𝑹𝑴𝑰𝑵𝑬 𝑬𝑵 *_${usedprefix+ command2}_*png 𝒀    𝑽𝑼𝑬𝑳𝑽𝑨  𝑨 𝑰𝑵𝑻𝑬𝑵𝑻𝑨𝑹𝑳𝑶!!'
+    else throw `『𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑪𝑰𝑶𝑵』\n\n𝑹𝑬𝑪𝑼𝑬𝑹𝑫𝑨 𝑹𝑬𝑺𝑷𝑶𝑵𝑫𝑬𝑹 𝑨 𝑼𝑵𝑨 𝑰𝑴𝑨𝑮𝑬𝑵 𝑶𝑯 𝑸𝑼𝑬 𝑻𝑬𝑹𝑴𝑰𝑵𝑬 𝑬𝑵 *_${usedprefix+ command2}_*png 𝒀    𝑽𝑼𝑬𝑳𝑽𝑨  𝑨 𝑰𝑵𝑻𝑬𝑵𝑻𝑨𝑹𝑳𝑶!!`
   }
 user.lastmiming = new Date * 1
 }
