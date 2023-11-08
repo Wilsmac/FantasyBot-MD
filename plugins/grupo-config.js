@@ -13,7 +13,7 @@ throw `
 ${lenguajeGB['smsAvisoMG']()}*╭━[ ${wm} ]━⬣*
 *┃➥ ${usedPrefix + command} abrir*
 *┃➥ ${usedPrefix + command} cerrar*
-*╰━━━━━[ 𓃠 ${vs} ]━━━━━⬣*
+ ┈┈┈┈┈┈┈┈┈┈『${vs}』┈┈┈┈┈┈┈┈┈┈┈
 `.trim()
 await conn.groupSettingUpdate(m.chat, isClose)
   
