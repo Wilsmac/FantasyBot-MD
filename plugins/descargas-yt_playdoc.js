@@ -5,38 +5,35 @@ import axios from 'axios';
 import {youtubedl, youtubedlv2} from '@bochilteam/scraper';
 const handler = async (m, {conn, command, args, text, usedPrefix}) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
-if (!args || !args[0]) return conn.reply(m.chat, `${lenguajeGB['smsAvisoMG']()}𝙄𝙉𝙂𝙍𝙀𝙎𝙀 𝙀𝙇 TÍTULO/𝙀𝙉𝙇𝘼𝘾𝙀 𝘿𝙀 𝙔𝙊𝙐𝙏𝙐𝘽𝙀 𝙋𝘼𝙍𝘼 𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼𝙍 𝙀𝙇 𝘿𝙊𝘾𝙐𝙈𝙀𝙉𝙏𝙊 𝘿𝙀 𝘼𝙐𝘿𝙄𝙊\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊\n*${usedPrefix + command} https://youtu.be/85xI8WFMIUY*\n\n𝙀𝙉𝙏𝙀𝙍 𝙏𝙃𝙀 𝙔𝙊𝙐𝙏𝙐𝘽𝙀 𝙇𝙄𝙉𝙆 𝙏𝙊 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝙏𝙃𝙀 𝘼𝙐𝘿𝙄𝙊 𝘿𝙊𝘾𝙐𝙈𝙀𝙉𝙏\n𝙀𝙓𝘼𝙈𝙋𝙇𝙀\n*${usedPrefix + command} https://youtu.be/c5gJRzCi0f0*`, fkontak, m)
+if (!args || !args[0]) return conn.reply(m.chat, `${lenguajeGB['smsAvisoMG']()}𝙄𝙉𝙂𝙍𝙀𝙎𝙀 𝙀𝙇 TÍTULO/𝙀𝙉𝙇𝘼𝘾𝙀 𝘿𝙀 𝙔𝙊𝙐𝙏𝙐𝘽𝙀 𝙋𝘼𝙍𝘼 𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼𝙍 𝙀𝙇 𝘿𝙊𝘾𝙐𝙈𝙀𝙉𝙏𝙊 𝘿𝙀 𝘼𝙐𝘿𝙄𝙊\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊\n*${usedPrefix + command} https://youtu.be/85xI8WFMIUY*`, fkontak, m)
 try {
 const yt_play = await search(args.join(' '))
 let additionalText = ''
 if (command === 'play3' || command == 'playaudiodoc') {
-additionalText = '𝘼𝙐𝘿𝙄𝙊'
+additionalText = '𝑨𝑼𝑫𝑰𝑶'
 } else if (command === 'play4' || command == 'playvideodoc') {
-additionalText = '𝙑𝙄𝘿𝙀𝙊'
+additionalText = '𝑽𝑰𝑫𝑬𝑶'
 }
-const texto1 = `𓆩 𓃠 𓆪 ✧═══ ${vs} ═══✧ 𓆩 𓃠 𓆪*
+const texto1 = `*┈┈┈┈『${vs}』┈┈┈┈*
 
-ও 𝙏𝙄𝙏𝙐𝙇𝙊 | 𝙏𝙄𝙏𝙇𝙀 :
-» ${yt_play[0].title}
-﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
-ও 𝙋𝙐𝘽𝙇𝙄𝘾𝘼𝘿𝙊 | 𝙋𝙐𝘽𝙇𝙄𝙎𝙃𝙀𝘿
-» ${yt_play[0].ago}
-﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
-ও 𝘿𝙐𝙍𝘼𝘾𝙄𝙊𝙉 | 𝘿𝙐𝙍𝘼𝙏𝙄𝙊𝙉
-» ${secondString(yt_play[0].duration.seconds)}
-﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
-ও  𝙑𝙄𝙎𝙏𝘼𝙎 | 𝙑𝙄𝙀𝙒𝙎
-» ${MilesNumber(yt_play[0].views)}
-﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
-ও  𝘼𝙐𝙏𝙊𝙍 | 𝘼𝙐𝙏𝙃𝙊𝙍
-» ${yt_play[0].author.name}
-﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
-ও 𝙐𝙍𝙇
-» ${yt_play[0].url}
-﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
-ও 𝙀𝙉𝙑𝙄𝘼𝘿𝙊 ${additionalText}, 𝘼𝙂𝙐𝘼𝙍𝘿𝙀 𝙐𝙉 𝙈𝙊𝙈𝙀𝙉𝙏𝙊 ．．．
+𖤍 𝑻𝑰𝑻𝑼𝑳𝑶
+   ${yt_play[0].title}
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+𖤍 𝑷𝑼𝑩𝑳𝑰𝑪𝑨𝑫𝑶
+  ${yt_play[0].ago}
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+𖤍 𝑫𝑼𝑹𝑨𝑪𝑰𝑶𝑵
+  ${secondString(yt_play[0].duration.seconds)}
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+𖤍 𝑽𝑰𝑺𝑻𝑨𝑺
+  ${MilesNumber(yt_play[0].views)}
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+𖤍 𝑼𝑹𝑳
+𖤍 ${yt_play[0].url}
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+𖤍 𝑬𝑵𝑽𝑰𝑨𝑫𝑶 ${additionalText}, 𝑨𝑮𝑼𝑨𝑹𝑫𝑬 𝑼𝑵 𝑴𝑶𝑴𝑬𝑵𝑻𝑶 𝑷𝑶𝑹 𝑭𝑨𝑽𝑶𝑹..
 
-*𓆩 𓃠 𓆪 ✧═══ ${vs} ═══✧ 𓆩 𓃠 𓆪*`.trim()
+*┈┈┈┈『${vs}』┈┈┈┈*`.trim()
 await conn.sendMessage(m.chat, {
 text: texto1,
 contextInfo: {
