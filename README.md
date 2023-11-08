@@ -7,23 +7,18 @@
 <a href="https://github.com/Wilsmac/FantasyBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;𝐻𝑂𝐿𝐴,+𝐺𝑅𝐴𝐶𝐼𝐴𝑆+𝑃𝑂𝑅+𝑉𝐼𝑆𝐼𝑇𝐴𝑅+𝐸𝐿+𝑅𝐸𝑃𝑂𝑆𝐼𝑇𝑂𝑅𝐼𝑂" height="120px"></a> 
 </p>
  
-
-
 <p align="center"> 
 <a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;Grupos+Oficiales+de" height="100px"></a> 
 </p>
- 
 
 <a href="https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl" target="blank"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
 <a href="https://chat.whatsapp.com/GK9jQ7sY7XRGxhu6UoTOle" target="blank"><img src="https://img.shields.io/badge/grupo de soporté-✨-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;𝐵𝑜𝑡𝑠+𝑂𝑓𝑖𝑐𝑎𝑙𝑒𝑠+𝑑𝑒" height="100px"></a> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;𝐵𝑜𝑡𝑠+𝑂𝑓𝑖𝑐𝑎𝑙𝑒𝑠+𝑑𝑒" height="80px"></a> 
 </p>
-
 <a href="https://api.whatsapp.com/send/?phone=50250101139&text=.estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 > NO SPAMEAR COMANDOS
