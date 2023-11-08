@@ -35,9 +35,9 @@
 <p align="center"> 
 <a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫=++;𝐶𝑂𝑁𝐹𝐼𝐺𝑈𝑅𝐴𝐶𝐼𝑂́𝑁+𝑃𝐴𝑅𝐴" height="100px"></a> 
 
- <a href="https://github.com/Wilsmac/Fenix-Bot-CD/fork" target="black"><img src="https://img.shields.io/badge/♥️-clona_el_repositorio-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
+ <a href="https://github.com/Wilsmac/FantasyBot-MD/fork" target="black"><img src="https://img.shields.io/badge/♥️-clona_el_repositorio-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
 
-<a href="https://github.com/Wilsmac/Fenix-Bot-CD/blob/master/config.js" target="black"><img src="https://img.shields.io/badge/♥️-Cambiar el owner del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
+<a href="https://github.com/Wilsmac/FantasyBot-MD/blob/master/config.js" target="black"><img src="https://img.shields.io/badge/♥️-Cambiar el owner del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
   
 
  
@@ -45,7 +45,7 @@
 <a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=replit++;activa+el+bot+en" height="100px"></a> 
 </p>
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/Wilsmac/Fenix-Bot-CD) 
+[![Run on Repl.it](https://repl.it/badge/github/Wilsmac/FantasyBot-MD)](https://repl.it/github/Wilsmac/FantasyBot-MD) 
   
 
  <p align="center"> 
@@ -66,10 +66,10 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```
-git clone https://github.com/Wilsmac/Fenix-Bot-CD.git
+git clone https://github.com/Wilsmac/FantasyBot-MD.git
 ```
 ```bash
-cd Fenix-Bot-CD
+cd FantasyBot-MD
 ```
 ```
 yarn install
