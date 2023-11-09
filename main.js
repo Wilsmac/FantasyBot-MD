@@ -253,7 +253,7 @@ if (connection == 'open') {
 console.log(chalk.bold.greenBright(lenguajeGB['smsConexion']()))}
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode
 if (reason == 405) {
-await fs.unlinkSync("./GataBotSession/" + "creds.json")
+await fs.unlinkSync("./FantasySession/" + "creds.json")
 return console.log(chalk.bold.redBright("\n[ ❌ ] CONEXION REPLAZADA, POR FAVOR ESPERE UN MOMENTO ME VOY A REINICIAR...\nSI SALE ERROR VUELVE A INICIAR CON: npm start")) 
 process.send('reset')}
 if (connection === 'close') {
@@ -420,13 +420,13 @@ unlinkSync(filePath)})
 
 function purgeSession() {
 let prekey = []
-let directorio = readdirSync("./GataBotSession")
+let directorio = readdirSync("./FantasySession")
 let filesFolderPreKeys = directorio.filter(file => {
 return file.startsWith('pre-key-')
 })
 prekey = [...prekey, ...filesFolderPreKeys]
 filesFolderPreKeys.forEach(files => {
-unlinkSync(`./GataBotSession/${files}`)
+unlinkSync(`./FantasySession/${files}`)
 })
 } 
 
@@ -454,7 +454,7 @@ console.log(chalk.bold.red(lenguajeGB.smspurgeSessionSB3() + err))
 }}
 
 function purgeOldFiles() {
-const directories = ['./GataBotSession/', './GataJadiBot/']
+const directories = ['./FantasySession/', './GataJadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
