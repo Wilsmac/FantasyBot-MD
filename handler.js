@@ -5,7 +5,6 @@ import { fileURLToPath } from 'url'
 import path, { join } from 'path'
 import { unwatchFile, watchFile } from 'fs'
 import chalk from 'chalk'   
-import fs from 'fs'
 import fetch from 'node-fetch' 
  
 /**
@@ -1023,7 +1022,6 @@ if (!('antiCall' in settings)) settings.antiCall = true
 if (!('antiSpam' in settings)) settings.antiSpam = true 
 if (!('modoia' in settings)) settings.modoia = false
 if (!('jadibotmd' in settings)) settings.jadibotmd = true  
-if (!('muto' in user)) user.muto = false
 } else global.db.data.settings[this.user.jid] = {
 self: false,
 autoread: false,
@@ -1035,7 +1033,6 @@ antiCall: true,
 antiSpam: true,
 modoia: false, 
 jadibotmd: true,
-muto: false,
 }} catch (e) {
 console.error(e)
 }
@@ -1066,16 +1063,6 @@ if (m.isBaileys) return
 m.exp += Math.ceil(Math.random() * 10)
 let usedPrefix
 let _user = global.db.data && global.db.data.users && global.db.data.users[m.sender]
-
-if (m) { let utente = global.db.data.users[m.sender]
-if (utente.muto == true) {
-let bang = m.key.id
-let cancellazzione = m.key.participant
-await conn.sendMessage(m.chat, {
-delete: {
-remoteJid: m.chat, fromMe: false, id: bang, participant: cancellazzione
-}})
-}	
 const groupMetadata = (m.isGroup ? ((conn.chats[m.chat] || {}).metadata || await this.groupMetadata(m.chat).catch(_ => null)) : {}) || {}
 const participants = (m.isGroup ? groupMetadata.participants : []) || []
 const user = (m.isGroup ? participants.find(u => conn.decodeJid(u.id) === m.sender) : {}) || {} // User Data
