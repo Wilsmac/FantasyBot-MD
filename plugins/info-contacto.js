@@ -32,7 +32,7 @@ await conn.sendContactArray(m.chat, lista, null, { quoted: fkontak })
 await m.reply(lenguajeGB['smsMalError3']() + '\n*' + lenguajeGB.smsMensError1() + '*\n*' + usedPrefix + `${lenguajeGB.lenguaje() == 'es' ? 'reporte' : 'report'}` + '* ' + `${lenguajeGB.smsMensError2()} ` + usedPrefix + command)
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
 console.log(e)}} 
-handler.command = /^(contactos?|contacts?)$/i //['contacto', 'contact']  
+handler.command = /^(contacto?|contacts?)$/i //['contacto', 'contact']  
 
 export default handler
 
