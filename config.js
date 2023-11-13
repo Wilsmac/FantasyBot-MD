@@ -39,7 +39,7 @@ global.Key360 = ["964f-0c75-7afc"]
 
 global.lenguajeCD = es //idioma de FantasyBot-MD 
 
-//------------------------------------------------------
+//--------------------------------------------------
 
 global.lenguajeGB = es //Idioma de FantasyBot-MD, Ejemplo: es | en | pt...
 
