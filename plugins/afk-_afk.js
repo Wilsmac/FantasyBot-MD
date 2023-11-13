@@ -21,7 +21,7 @@ continue
 let reason = user.afkReason || ''
 await conn.reply(m.chat, `${lenguajeCD['smsAvisoAG']()}✴️ *A F K* ✴️
 *▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔*
-😾 ${lenguajeGB['smsAfkM4']()}\n${reason ? `${lenguajeCD['smsAfkM5']()}` + '👉 ' + reason : `${lenguajeCD['smsAfkM6']()}`}
+😾 ${lenguajeCD['smsAfkM4']()}\n${reason ? `${lenguajeCD['smsAfkM5']()}` + '👉 ' + reason : `${lenguajeCD['smsAfkM6']()}`}
 
 ${lenguajeCD['smsAfkM3']()}\n👉 *${(new Date - user.afk).toTimeString()}*`.trim(), m)
 }
