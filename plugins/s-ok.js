@@ -5,7 +5,7 @@ if (!db.data.chats[m.chat].stickers && m.isGroup) throw 0
  
 let nombre = '𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫'
 let nombre2 = '𝑾𝒊𝒍𝒎𝒆𝒓 𝒐𝒇𝒄'
- 
+  
 const s = [
 'https://media.makeameme.org/created/uh-ok-5ca824.jpg',
 'https://i.pinimg.com/originals/9a/da/00/9ada0026337e175c787b9b47a3cd3de5.jpg',
