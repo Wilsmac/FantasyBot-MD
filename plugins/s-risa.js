@@ -4,7 +4,7 @@ let handler = async(m, { conn }) => {
 if (!db.data.chats[m.chat].stickers && m.isGroup) throw 0
  
 let nombre = '𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫'
-let nombre2 = '𝑾𝒊𝒍𝒎𝒆𝒓 𝒐𝒇𝒄
+let nombre2 = '𝑾𝒊𝒍𝒎𝒆𝒓 𝒐𝒇𝒄'
  
 const s = [
 'https://media0.giphy.com/media/65ODCwM00NVmEyLsX3/giphy.gif?cid=ecf05e47p9z5h8ozpdu8cjem55qy6hc6mtjb1tjlyr9usjsy&rid=giphy.gif&ct=g',
