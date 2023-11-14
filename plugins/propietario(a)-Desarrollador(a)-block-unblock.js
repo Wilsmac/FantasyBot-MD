@@ -2,7 +2,7 @@
 // código parchado por @Wilmer
 // https://github.com/Wilsmac
 let handler = async (m, { text, conn, usedPrefix, command }) => {
-let why = `*Ejemplo:*\n${usedPrefix + command} @${m.sender.split("@")[0]}`
+let why = `*ETIQUETE ALA PERSONA QUE QUIERE QUE BLOQUEE:*\n${usedPrefix + command} @${m.sender.split("@")[0]}`
 let who = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text ? text.replace(/[^0-9]/g, '') + '@s.whatsapp.net' : false
 if (!who) conn.reply(m.chat, why, m, { mentions: [m.sender] })
 let res = [];
@@ -27,7 +27,7 @@ res.push(who);
 else conn.reply(m.chat, why, m, { mentions: [m.sender] })
 break
 }
-if (res[0]) conn.reply(m.chat, `*Éxito ${command} ${res ? `${res.map(v => '@' + v.split("@")[0])}` : ''}*`, m, { mentions: res })
+if (res[0]) conn.reply(m.chat, `*EXITO, UDUARIO DESBLOQUEADO ${command} ${res ? `${res.map(v => '@' + v.split("@")[0])}` : ''}*`, m, { mentions: res })
 }
 handler.help = ["block", "unblock"]
 handler.tags = ["owner"]
