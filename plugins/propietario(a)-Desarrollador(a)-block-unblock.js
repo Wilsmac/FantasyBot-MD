@@ -26,7 +26,7 @@ res.push(who);
 else conn.reply(m.chat, why, m, { mentions: [m.sender] })
 break
 }
-if (res[0]) conn.reply(m.chat, `*𝑶𝑹𝑫𝑬𝑵𝑬𝑺 𝑹𝑬𝑺𝑰𝑽𝑰𝑫𝑨𝑺🌺🌹* ${command} ${res ? `${res.map(v => '@' + v.split("@")[0])}` : ''}*`, m, { mentions: res })
+if (res[0]) conn.reply(m.chat, `*𝑶𝑹𝑫𝑬𝑵𝑬𝑺 𝑹𝑬𝑺𝑰𝑽𝑰𝑫𝑨𝑺🌺🌹*\n*${command} ${res ? `${res.map(v => '@' + v.split("@")[0])}` : ''}*`, m, { mentions: res })
 }
 handler.help = ["block", "unblock"]
 handler.tags = ["owner"]
