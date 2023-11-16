@@ -83,13 +83,14 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu = `${lenguajeCD['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}\n${packname}${conn.user.jid == global.conn.user.jid ? '' : `\n║˚₊·˚₊· ͟͟͞͞➳* 𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫 𝑆𝑈𝐵 𝐵𝑂𝑇 ⇢ *@${global.conn.user.jid.split`@`[0]}`}
+
 ┏◚◚◚◚◚◚◚◚◚◚◚◚◚◚◚◚┓
 ✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
 ├┈ ↷  ʜᴏʀᴀʀɪᴏ
 ├• ✐; ₊˚✦୧︰  .
 ├┈・──・──・﹕₊˚ ✦・୨୧・
 ┣ ඬ⃟ 🌺 \`\`\`${horarioFecha}\`\`\`
-*╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ* 
+*╘━ꥇ۬════•| ✿ |•════╝* 
 
 ✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
 ├┈ ↷ ɪɴғᴏ ᴅᴇ ʙᴏᴛ
@@ -102,12 +103,12 @@ let menu = `${lenguajeCD['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┣ ඬ⃟ 🌹 *${lenguajeCD['smsMode']()} ➺* _${global.opts['self'] ? `${lenguajeCD['smsModePrivate']().charAt(0).toUpperCase() + lenguajeCD['smsModePrivate']().slice(1).toLowerCase()}` : `${lenguajeCD['smsModePublic']().charAt(0).toUpperCase() + lenguajeCD['smsModePublic']().slice(1).toLowerCase()}`}_
 ┣ ඬ⃟ 🌹 *${lenguajeCD['smsBanChats']()}* ➺ _${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}_ 
 ┣ ඬ⃟ 🌹 *${lenguajeCD['smsBanUsers']()}* ➺ _${Object.entries(global.db.data.users).filter(user => user[1].banned).length}_
-*╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ* 
+*╘━ꥇ۬════•| ✿ |•════╝* 
 
 ╭ - ̗̀↳ꕤ—— 𖤍 —— ꕤ╮
 ┃ *< *información de ti* />*
 ├┈・─・﹕₊˚ ✦・୨୧・
-┣ *Tipo de registro »* ${user.registered === true ? `_${user.registroC === true ? 'Registro Completo 🗂️' : 'Registro Rápido 📑'}_` : '❌ _Sin registro_'}
+┣ *Tipo de registro »* ${user.registered === true ? `_${user.registroC === true ? 'Registro Completo 🗂' : 'Registro Rápido 📑'}_` : '❌ _Sin registro_'}
 ┣ *Mi estado »* ${typeof user.miestado !== 'string' ? '❌ _' + usedPrefix + 'miestado_' : '_Me siento ' + user.miestado + '_'}
 ┣ *Registrado »* ${user.registered === true ? '✅' : '❌ _' + usedPrefix + 'verificar_'}
 ┣ *${lenguajeCD['smsBotonM7']().charAt(0).toUpperCase() + lenguajeCD['smsBotonM7']().slice(1).toLowerCase()} »* ${user.premiumTime > 0 ? '✅' : '❌ _' + usedPrefix + 'pase premium_'}
@@ -158,7 +159,7 @@ ${readMore}
 ┣ ඬ⃟ 🌺 _${usedPrefix}donar_
 ┣ ඬ⃟ 🌺 _${usedPrefix}owner_
 ┣ ඬ⃟ 🌺 _${usedPrefix}script_
-╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
+╘━ꥇ۬════•| ✿ |•════╝
 
 *╭━『𝐹𝑈𝑁𝐶𝐼𝑂𝑁 𝐷𝐸 𝑆𝐸𝑅 𝑆𝑈𝐵 𝐵𝑂𝑇』* 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
@@ -169,7 +170,7 @@ ${readMore}
 ╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ
 
 ╭ - ̗̀↳ꕤ—— 𖤍 —— ꕤ╮
-┃ *< REPORTAR COMANDO />*
+┃ *< 𝑅𝐸𝑃𝑂𝑅𝑇𝐴𝑅 𝐶𝑂𝑀𝐴𝑁𝐷𝑂 />*
 ├┈・──・──・﹕₊˚ ✦・୨୧・
 ┣ ඬ⃟ 𖤍 💌 _${usedPrefix}reporte *texto*_
 ┣ ඬ⃟ 𖤍 💌 _${usedPrefix}report *texto*_
@@ -334,7 +335,7 @@ ${readMore}
 ┣ ඬ⃟ 🌺 _${usedPrefix}start_
 ┣ ඬ⃟ 🌺 _${usedPrefix}next_
 ┣ ඬ⃟ 🌺 _${usedPrefix}leave_
-*╘━ꥇ۬⏝۬︶⊹̇︶ٜ⊹︶ׅ⊹ֺ︶߭⊹︶۬⊹︶ꥇ̇ꥈׄ̇⏝۬ꥇ* 
+*╘━════•| ✿ |•════╝* 
 
 ✞͙͙͙͙͙͙͙͙͙͙⏜❟︵ֹ̩̥̩̥̩̥̩̩̥⏜੭🏮୧ֹ⏜︵ֹ̩̥̩̥̩̥̩̥̩̥̩̥̩̥❟⏜፞✞͙͙͙͙͙͙͙͙͙͙.
 ├┈ ↷ᴄᴏɴғɪɢᴜʀᴀᴄɪᴏɴ ᴇɴ ɢʀᴜᴘᴏs
