@@ -36,4 +36,4 @@ handler.customPrefix = /risa|xd|😂|🤣|🤪/i
 handler.command = new RegExp
 handler.exp = 50
 export default handler
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms)) *\
