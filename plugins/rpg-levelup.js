@@ -79,7 +79,7 @@ let user = global.db.data.users[m.sender]
     if (!canLevelUp(user.level, user.exp, global.multiplier)) {
         let { min, xp, max } = xpRange(user.level, global.multiplier)
         throw `
-╭━━━[ *𝙉𝙄𝙑𝙀𝙇 | 𝙇𝙀𝙑𝙀𝙇* ]━━━━⬣
+╭━━━[ *𝙉𝙄𝙑𝙀𝙇* ]━━━━⬣
 ┃ *NOMBRE | NAME*
 ┃ ${name}
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
@@ -88,7 +88,7 @@ let user = global.db.data.users[m.sender]
 ┃ *RANGO:* ${user.role}
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃ *XP:* *${user.exp - min}/${xp}*
-╰━━━〔 *𓃠 ${vs}* 〕━━━━━⬣
+╰━━━〔 * ${vs}* 〕━━━━━⬣
 
 *Te falta ${max - user.exp} de XP para subir de nivel*
 `.trim()
@@ -99,7 +99,7 @@ let user = global.db.data.users[m.sender]
     if (before !== user.level) {
         let teks = `Bien hecho! ${conn.getName(m.sender)} Nivel: ${user.level}`
         let str = `
-╭━━━[ *𝙉𝙄𝙑𝙀𝙇 | 𝙇𝙀𝙑𝙀𝙇* ]━━━━⬣
+╭━━━[ *𝙉𝙄𝙑𝙀𝙇* ]━━━━⬣
 ┃ *NIVEL ANTERIOR:* *${before}*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃ *NIVEL ACTUAL:* *${user.level}*
@@ -107,9 +107,9 @@ let user = global.db.data.users[m.sender]
 ┃ *RANGO* ${user.role}
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃ *FECHA:* *${new Date().toLocaleString('id-ID')}*
-╰━━━〔 *𓃠 ${vs}* 〕━━━━━⬣
+╰━━━━❰･${vs}･❱━━━━
 
-*_Cuanto más interactúes con GataBot-MD, mayor será tu nivel!!_*
+*_Cuanto más interactúes con FantasyBot-MD, mayor será tu nivel🌹!_*
 *_Actualiza tú rango con el comando ${usedPrefix}rol!!_*
 `.trim()
         try {
