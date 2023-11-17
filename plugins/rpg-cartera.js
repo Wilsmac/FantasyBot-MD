@@ -6,7 +6,7 @@ else who = m.sender
 let name = conn.getName(who) 
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let grupos = [nna, nn, nnn, nnnt]
-let Fantasy = [img5, img6, img7, img8, img9]
+let gata = [img5, img6, img7, img8, img9]
 let pp = './media/menus/Menu1.jpg'
 let enlace = { contextInfo: { externalAdReply: {title: wm + ' 🐈', body: 'support group' , sourceUrl: grupos.getRandom(), thumbnail: await(await fetch(gata.getRandom())).buffer() }}}
 let enlace2 = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: yt, mediaType: 'VIDEO', description: '', title: wm, body: '𝐹𝐴𝑁𝑇𝐴𝑆𝑌𝐵𝑂𝑇-𝑀𝐷 ', thumbnailUrl: await(await fetch(img)).buffer(), sourceUrl: yt }}}
