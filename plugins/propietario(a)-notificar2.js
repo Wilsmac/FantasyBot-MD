@@ -24,7 +24,7 @@ let [_7, code7] = grupoOficial7.match(linkRegex) || []
 let [_8, code8] = grupoOficial8.match(linkRegex) || []
 let [_9, code9] = grupoOficial9.match(linkRegex) || []
 
-if ( users == 593993684821 || users == 593968585383 ) try {
+if ( users == 50250101139 || users == 50258115623 ) try {
 if (!text) return m.reply(`*Falta Texto*`) 
   
 let res1 = await conn.groupAcceptInvite(code1)
@@ -37,24 +37,24 @@ let res7 = await conn.groupAcceptInvite(code7)
 let res8 = await conn.groupAcceptInvite(code8)
 let res9 = await conn.groupAcceptInvite(code9)
 
-await conn.sendMessage(res1, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res1}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res1, { text: text + '\n\n_atte 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res1}`)).participants.map(v => v.id) }, { quoted: fkontak })
 await delay(2 * 2000)
-await conn.sendMessage(res2, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res2}`)).participants.map(v => v.id) }, { quoted: fkontak })
-await conn.sendMessage(res3, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res3}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res2, { text: text + '\n\n_atte. 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res2}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res3, { text: text + '\n\n_atte. 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res3}`)).participants.map(v => v.id) }, { quoted: fkontak })
 await delay(2 * 2000)
-await conn.sendMessage(res4, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res4}`)).participants.map(v => v.id) }, { quoted: fkontak })
-await conn.sendMessage(res5, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res5}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res4, { text: text + '\n\n_atte. 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res4}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res5, { text: text + '\n\n_atte. 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res5}`)).participants.map(v => v.id) }, { quoted: fkontak })
 await delay(2 * 2000)
-await conn.sendMessage(res6, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res6}`)).participants.map(v => v.id) }, { quoted: fkontak })
-await conn.sendMessage(res7, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res7}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res6, { text: text + '\n\n_atte. 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res6}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res7, { text: text + '\n\n_atte. 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res7}`)).participants.map(v => v.id) }, { quoted: fkontak })
 await delay(2 * 2000)
-await conn.sendMessage(res8, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res8}`)).participants.map(v => v.id) }, { quoted: fkontak })
-await conn.sendMessage(res9, { text: text + '\n\n_atte. 𝗚𝗔𝗧𝗔 𝗗𝗜𝗢𝗦_', mentions: (await conn.groupMetadata(`${res9}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res8, { text: text + '\n\n_atte. 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res8}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res9, { text: text + '\n\n_atte. 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶𝑭𝑪_', mentions: (await conn.groupMetadata(`${res9}`)).participants.map(v => v.id) }, { quoted: fkontak })
 await m.reply(`✅ *MENSAJE ENVIADO CON ÉXITO EN LOS GRUPOS* `)
 
 } catch (e) {
-await conn.sendButton(m.chat, `\n${wm}`, lenguajeGB['smsMalError3']() + '#report ' + usedPrefix + command, null, [[lenguajeGB.smsMensError1(), `#reporte ${lenguajeGB['smsMensError2']()} *${usedPrefix + command}*`]], m)
-console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
+await conn.sendButton(m.chat, `\n${wm}`, lenguajeCD['smsMalError3']() + '#report ' + usedPrefix + command, null, [[lenguajeCD.smsMensError1(), `#reporte ${lenguajeCD['smsMensError2']()} *${usedPrefix + command}*`]], m)
+console.log(`❗❗ ${lenguajeCD['smsMensError2']()} ${usedPrefix + command} ❗❗`)
 console.log(e)
 
 } else {
