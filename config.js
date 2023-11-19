@@ -15,7 +15,7 @@ global.owner = [
 ["50250101139", '𝑂𝑊𝑁𝐸𝑅', true],
 ["1(904)2018926", 'Colaboradora', true],
 ["1(407)7384440", 'colaboradora', true], 
-["593968585383"], ["51967997782"], ["934371153"]]
+["593968585383"], ["51967997782"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
@@ -132,17 +132,17 @@ global.fb = "https://www.facebook.com"
 
 global.nna = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' //CANAL
 global.nn2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //anime y social
-global.nna2 = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //información
-global.nn = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //Grupo 1 ✓
+global.nna2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //información
+global.nn = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 1 ✓
 global.nnn = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 2 ^^
 global.nnnt = 'https://chat.whatsapp.com/Esych39oXGV0q8YLwMPqVd' //Stickers
-global.nnntt = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //Grupo 7 COL
+global.nnntt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz'; //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 7 COL
 global.nnnttt3 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/HiBJwfGy4J880Fn2YVhgfO' //A.T.M.M
+global.nnnttt5 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //A.T.M.M
 global.paypal = 'https://paypal.me'
 global.asistencia = 'Wa.me/50258115623' //Dudas? escríbeme...
 
@@ -302,19 +302,19 @@ global.rpg = {
     string = string.toLowerCase();
     let emot = {
       level: '🧬 Nivel : Level',
-      limit: lenguajeGB.eDiamante(),
-      exp: lenguajeGB.eExp(),
+      limit: lenguajeCD.eDiamante(),
+      exp: lenguajeCD.eExp(),
       bank: '🏦 Banco : Bank',
-      diamond: lenguajeGB.eDiamantePlus(),
+      diamond: lenguajeCD.eDiamantePlus(),
       health: '❤️ Salud : Health',
-      kyubi: lenguajeGB.eMagia(),
-      joincount: lenguajeGB.eToken(),
-      emerald: lenguajeGB.eEsmeralda(),
-      stamina: lenguajeGB.eEnergia(),
+      kyubi: lenguajeCD.eMagia(),
+      joincount: lenguajeCD.eToken(),
+      emerald: lenguajeCD.eEsmeralda(),
+      stamina: lenguajeCD.eEnergia(),
       role: '💪 Rango | Role',
       premium: '🎟️ Premium',
       pointxp: '📧 Puntos Exp : Point Xp',
-      gold: lenguajeGB.eOro(),
+      gold: lenguajeCD.eOro(),
       
       trash: lenguajeGB.eBasura(),
       crystal: '🔮 Cristal : Crystal',
