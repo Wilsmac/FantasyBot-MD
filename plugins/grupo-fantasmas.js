@@ -32,7 +32,7 @@ case "kickfantasmas":
        chat.welcome = false
        try{
        
-         let users = m.mentionedJid.filter(u => !areJidsSameUser(u, conn.user.id))
+         let users = m.mentionedJid.filter(u => conn.user.id))
        let kickedGhost = sider.map(v => v.id).filter(v => v !== conn.user.jid)
        for (let user of users)
            if (user.endsWith('@s.whatsapp.net') && !(participants.find(v => areJidsSameUser(v.id, user)) || { admin: true }).admin)
