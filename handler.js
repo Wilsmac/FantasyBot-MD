@@ -1222,7 +1222,7 @@ if (xp > 2000)
 m.reply('Exp limit') // Hehehe
 else               
 if (!isPrems && plugin.money && global.db.data.users[m.sender].money < plugin.money * 1) {
-this.reply(m.chat, `𝑁𝑂 𝑇𝐼𝐸𝑁𝐸𝑆 𝑇𝑂𝐾𝐼𝑇𝑂𝐶𝑂𝐼𝑁𝑆😢`, m)
+this.reply(m.chat, `𝑵𝒐 𝑻𝒊𝒆𝒏𝒆𝒔 𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑪𝒐𝒊𝒏𝒔😢`, m)
 continue     
 }
 			
@@ -1290,7 +1290,7 @@ if (m.limit)
 m.reply(+m.limit + lenguajeGB.smsCont8())
 }
 if (m.money)
-m.reply(+m.money + ' 𝑇𝑂𝐾𝐼𝑇𝑂𝐶𝑂𝐼𝑁𝑆 🐱 𝑈𝑆𝐴𝐷𝑂(𝑆)')  
+m.reply(+m.money + ' 𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑪𝒐𝒊𝒏𝒔 𝑼𝑺𝑨𝑫𝑶(𝑺)')  
 break
 }}} catch (e) {
 console.error(e)
@@ -1347,7 +1347,7 @@ if (settingsREAD.autoread2) await this.readMessages([m.key])
 	    
 if (!db.data.chats[m.chat].reaction && m.isGroup) throw 0
 if (!m.fromMem && m.text.match(/(ata|des|able|izo|ido|.-.|._.|:)|:(|:v|UNIFINED|wilmer|;v|v;|v':|:'v)/gi)) {
-let emot = pickRandom(["😺", "😸", "😹", "😻", "😼", "😽", "🙀", "😿", "😾", "🤩", "😏", "😳", "🥵", "🤯", "😱", "😨", "🤫", "🥴", "🤧", "🤑", "🤠", "🤖", "🤝", "💪", "👑", "😚", "🐱", "🐈", "🐆", "🐅", "⚡️", "🌈", "☃️", "⛄️", "🌝", "🌛", "🌜", "🍓", "🍎", "🎈", "🪄", "❤️", "🧡", "💛", "💚", "💙", "💜", "🖤", "🤍", "💘", "💝", "💟", "🌝", "😎", "🔥", "🖕", "🐦"])
+let emot = pickRandom(["😺", "😸", "😹", "😼", "🙀", "😿", "😾", "😏", "🥵", "🤫", "🤧", "🍆", "💋", "🥺", "🌌", "🍑"])
 this.sendMessage(m.chat, { react: { text: emot, key: m.key }})}
 function pickRandom(list) { return list[Math.floor(Math.random() * list.length)]}
 }}
