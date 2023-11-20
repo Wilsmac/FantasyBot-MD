@@ -1166,7 +1166,7 @@ _16.Top Caja para Mascota_ *${userspet.indexOf(m.sender) + 1}* _de_ *${userspet.
 *│ ⛏️⚡ Minar EXP » ${new Date - user.lastmiming < 600000 ? '❌' : '✅'}*
 ${new Date - user.lastmiming < 600000 ? `${clockString(user.lastmiming + 600000 - new Date())}` : '*│* ✅ 𝗠𝗜𝗦𝗜𝗢𝗡 𝗬𝗔 𝗗𝗜𝗦𝗣𝗢𝗡𝗜𝗕𝗟𝗘'}
 *│┈┈┈┈┈┈┈┈┈┈┈┈*
-*│ ⛏️🐱 Minar GataCoins » ${new Date - user.lastcoins < 600000 ? '❌' : '✅'}*
+*│ ⛏️🌹 Minar FantasyCoins » ${new Date - user.lastcoins < 600000 ? '❌' : '✅'}*
 ${new Date - user.lastcoins < 600000 ? `${clockString(user.lastcoins + 600000 - new Date())}` : '*│* ✅ 𝗠𝗜𝗦𝗜𝗢𝗡 𝗬𝗔 𝗗𝗜𝗦𝗣𝗢𝗡𝗜𝗕𝗟𝗘'}
 *│┈┈┈┈┈┈┈┈┈┈┈┈*
 *│ ⛏️💎 Minar Diamantes » ${new Date - user.lastdiamantes < 900000 ? '❌' : '✅'}* 
@@ -1246,7 +1246,7 @@ const fkontak = {
 	"participant": "0@s.whatsapp.net"
 }
 // let ftroli = { key: {participant : '0@s.whatsapp.net'}, message: { orderMessage: { itemCount: 2022, status: 1, surface: 1, message: bottime, orderTitle: wm, sellerJid: '0@s.whatsapp.net' } } }   
-conn.sendFile(m.chat, imgr, 'gata.jpg', str, {quoted: fkontak})
+conn.sendFile(m.chat, imgr, 'FantasyBot-MD', str, {quoted: fkontak})
 //await conn.sendButton(m.chat, `*𝗣𝗥𝗘𝗠𝗜𝗨𝗠 ${user.premium ? "✅": "❌"}*\n${wm}`, str, imgr + 'Inventario : Inventory', [[`${healt < 40 ? '❤️ 𝘾𝙐𝙍𝘼𝙍𝙈𝙀 | 𝙃𝙀𝘼𝙇 𝙈𝙀' : '𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖𝙧 | 𝙑𝙚𝙣𝙩𝙪𝙧𝙚 🏕️'}`, `${healt < 40 ? '.heal' : '.adventure'}`],['🏪 𝙏𝙞𝙚𝙣𝙙𝙖 𝙥𝙖𝙧𝙖 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 | 𝘽𝙪𝙮', '.buy'],['🏪 𝙏𝙞𝙚𝙣𝙙𝙖 𝙥𝙖𝙧𝙖 𝙑𝙚𝙣𝙙𝙚𝙧 | 𝙎𝙚𝙡𝙡', '.sell']], m, {quoted: fkontak})
 
 } else if (args[0] == '3') { // Inventario 4
