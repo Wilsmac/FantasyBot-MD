@@ -251,7 +251,7 @@ menu() {
 }
 
 menu_ayuda() {
-    #printf "${v1}[${b}++${v1}]${v} GataBot-MD${b}: "
+    #printf "${v1}[${b}++${v1}]${v} FantasyBot-MD${b}: "
 	read opcion
 	case $opcion in
             01|1)
@@ -322,5 +322,5 @@ _______░▒▓██
 _____░▒▓██\n\e[0m"
     
 sleep 15 && pkill mpv > /dev/null 2>&1 && sleep 2 && rm -f /data/data/com.termux/files/home/"$random_mp3" &
-echo -e "\033[01;32m\033[01mIniciando GataBot!!\nStarting CatBot!!\n\033[0m"
+echo -e "\033[01;32m\033[01mIniciando FantasyBot-MD\n\033[0m"
 npm start
