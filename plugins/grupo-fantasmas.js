@@ -1,5 +1,4 @@
-//import { areJidsSameUser } from '@adiwajshing/baileys'
-let areJidsSameUser =  (await import(global.baileys)).default
+import { areJidsSameUser } from global.baileys
 let handler = async (m, { conn, text, participants, args, command }) => {
 let member = participants.map(u => u.id)
 if(!text) {
