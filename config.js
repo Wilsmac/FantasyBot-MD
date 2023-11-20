@@ -15,7 +15,7 @@ global.owner = [
 ["50250101139", '𝑂𝑊𝑁𝐸𝑅', true],
 ["1(904)2018926", 'Colaboradora', true],
 ["1(407)7384440", 'colaboradora', true], 
-["593968585383"], ["51967997782"]]
+["593968585383"], ["51967997782"], ["50246257139"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
@@ -135,7 +135,7 @@ global.nn2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //anime y social
 global.nna2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //información
 global.nn = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 1 ✓
 global.nnn = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 2 ^^
-global.nnnt = 'https://chat.whatsapp.com/Esych39oXGV0q8YLwMPqVd' //Stickers
+global.nnnt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Stickers
 global.nnntt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 4
 global.nnnttt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 5
 global.nnnttt1 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz'; //Grupo 6 COL
@@ -180,7 +180,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫 : 𝑊𝐼𝐿𝑆𝑀𝐴𝐶"
+global.wm = "[♥︎𝐿] 𝑌 [☆𝑊] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
 global.igfg = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
