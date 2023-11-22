@@ -33,7 +33,17 @@ let captionvid = `*┈┈┈┈『${vs}』┈┈┈┈*
 𖤍 𝑬𝑵𝑽𝑰𝑨𝑫𝑶 ${additionalText}, 𝑨𝑮𝑼𝑨𝑹𝑫𝑬 𝑼𝑵 𝑴𝑶𝑴𝑬𝑵𝑻𝑶 𝑷𝑶𝑹 𝑭𝑨𝑽𝑶𝑹..
 
 *┈┈┈┈『${vs}』┈┈┈┈*`  
-let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
+await conn.sendMessage(m.chat, {
+text: captionvid,
+contextInfo: {
+externalAdReply: {
+title: 'descargando su música, aguarde un momento',
+body: packname,
+thumbnailUrl: yt_play[0].thumbnail, 
+mediaType: 1,
+showAdAttribution: true,
+renderLargerThumbnail: true
+}}} , { quoted: m })
 if (command == 'play') {	
 try {
 let q = '128kbps'
