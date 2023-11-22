@@ -4,11 +4,11 @@
 
 </p>
 <p align="center"> 
-<a href="https://github.com/Wilsmac/FantasyBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;𝐻𝑂𝐿𝐴,+𝐺𝑅𝐴𝐶𝐼𝐴𝑆+𝑃𝑂𝑅+𝑉𝐼𝑆𝐼𝑇𝐴𝑅+𝐸𝐿+𝑅𝐸𝑃𝑂𝑆𝐼𝑇𝑂𝑅𝐼𝑂" height="120px"></a> 
+<a href="https://github.com/Wilsmac/FantasyBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;𝐻𝑂𝐿𝐴,+𝐺𝑅𝐴𝐶𝐼𝐴𝑆+𝑃𝑂𝑅+𝑉𝐼𝑆𝐼𝑇𝐴𝑅+𝐸𝐿+𝑅𝐸𝑃𝑂𝑆𝐼𝑇𝑂𝑅𝐼𝑂" height="100px"></a> 
 </p>
  
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;Grupos+Oficiales+de" height="100px"></a> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=19&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫++;Grupos+Oficiales+de" height="90px"></a> 
 </p>
 
 <a href="https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl" target="blank"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -34,21 +34,18 @@
 
 <a href="https://github.com/Wilsmac/FantasyBot-MD/blob/master/config.js" target="black"><img src="https://img.shields.io/badge/♥️-Cambiar el owner del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
   
-
- 
 <p align="center"> 
 <a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=replit++;activa+el+bot+en" height="100px"></a> 
 </p>
 
 [![Run on Repl.it](https://repl.it/badge/github/Wilsmac/FantasyBot-MD)](https://repl.it/github/Wilsmac/FantasyBot-MD) 
- <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑻𝒆𝒓𝒎𝒖𝒙++;𝑰𝒏𝒔𝒕𝒂𝒍𝒂𝒄𝒊𝒐́𝒏+𝒂𝒖𝒕𝒐𝒎𝒂́𝒕𝒊𝒄𝒂+𝒑𝒐𝒓" height="90px"></a> 
-</p>
 
-```
+## <h1>Instalación automática por termux</h1>
+ 
+```ts
 termux-setup-storage
 ```  
-```
+```ts
 apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Wilsmac/FantasyBot-MD/master/fantasy.sh | bash
 ```
 
