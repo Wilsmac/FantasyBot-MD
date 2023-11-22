@@ -41,7 +41,16 @@
 </p>
 
 [![Run on Repl.it](https://repl.it/badge/github/Wilsmac/FantasyBot-MD)](https://repl.it/github/Wilsmac/FantasyBot-MD) 
-  
+ <p align="center"> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑻𝒆𝒓𝒎𝒖𝒙++;𝑰𝒏𝒔𝒕𝒂𝒍𝒂𝒄𝒊𝒐́𝒏+𝒂𝒖𝒕𝒐𝒎𝒂́𝒕𝒊𝒄𝒂+𝒑𝒐𝒓" height="90px"></a> 
+</p>
+
+```
+termux-setup-storage
+```  
+```
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Wilsmac/FantasyBot-MD/master/fantasy.sh | bash
+```
 
  <p align="center"> 
 <a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=3000&color=[00FFFF]&center=falso&vCenter=falso&lines=Termux++;activa+el+Bot+en" height="100px"></a> 
