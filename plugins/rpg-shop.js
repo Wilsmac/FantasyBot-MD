@@ -13,10 +13,10 @@ let handler = async (m, { conn, command, args, usedPrefix }) => {
 ┃ *Ha Gastado* :  -${xpperlimit * count} 𝙓𝙋
 ╰━━━━━〔 *𓃠 ${vs}* 〕━━━━⬣`.trim()
     
-await conn.sendHydrated(m.chat, gata, wm, null, md, '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
+await conn.sendHydrated(m.chat, gata, wm, null, md, '𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫', null, null, [
 ['💵 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 𝙓10', '.buy 10'],
 ['💸 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 𝙓20', '.buy 20'],
-['🐈 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 𝙘𝙤𝙣 𝙂𝙖𝙩𝙖𝘾𝙤𝙞𝙣𝙨', '/buy2']
+['🩸 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 𝙘𝙤𝙣 𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑪𝒐𝒊𝒏𝒔', '/buy2']
 ], m,)
     
   } else //conn.reply(m.chat, `❎ Lo siento, no tienes suficientes *XP* para comprar *${count}* Diamantes💎`, m)
