@@ -1347,7 +1347,7 @@ if (settingsREAD.autoread2) await this.readMessages([m.key])
 	    
 if (!db.data.chats[m.chat].reaction && m.isGroup) throw 0
 if (!m.fromMem && m.text.match(/(ata|des|able|izo|ido|.-.|._.|:)|:(|:v|UNIFINED|wilmer|;v|v;|v':|:'v)/gi)) {
-let emot = pickRandom(["😺", "😸", "😹", "😼", "🙀", "😿", "😾", "😏", "🥵", "🤫", "🤧", "🍆", "💋", "🥺", "🌌", "🍑"])
+let emot = pickRandom(["😺", "😸", "😹", "😼", "🙀", "😿", "😾", "😏", "🥵", "🤫", "🤧", "🍆", "💋", "🥺", "🌌", "🍑", "🏳️‍🌈", "🍌", "🦆", "🖕", "🤬"])
 this.sendMessage(m.chat, { react: { text: emot, key: m.key }})}
 function pickRandom(list) { return list[Math.floor(Math.random() * list.length)]}
 }}
