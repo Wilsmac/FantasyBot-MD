@@ -46,7 +46,7 @@
 termux-setup-storage
 ```  
 ```ts
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Wilsmac/FantasyBot-MD/master/fantasy.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Wilsmac/FantasyBot-MD/master/Fantasy.sh | bash
 ```
 
  <p align="center"> 
