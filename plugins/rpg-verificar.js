@@ -582,7 +582,7 @@ externalAdReply: {
 title: wm,
 body: user.name,
 thumbnailUrl: pp, 
-sourceUrl: 'https://www.atom.bio/gatabot/',
+sourceUrl: 'https://www.atom.bio/Wilsmac/',
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: true
