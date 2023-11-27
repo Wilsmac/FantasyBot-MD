@@ -24,11 +24,11 @@ ${usedPrefix}audio <numero>
 let teks = results.all.map((v, i) => {
 let link = v.url;
 vids_.urls.push(link);
-return `[${i + 1}]\n❤️꙰༻ *TÍTULO:*  ${v.title}
-⁖🩵꙰༻ *ENLACE:* ${v.url}
-⁖💜꙰༻ *DURACIÓN:* ${v.timestamp}
-⁖💚꙰༻ *SUBIDO:* ${v.ago}
-⁖🧡꙰༻ *VISTAS:* ${v.views}`}).join('\n\n••••••••••••••••••••••••••••••••••••\n\n')
+return `[${i + 1}]\n❥︎ *𝚃𝙸́𝚃𝚄𝙻𝙾:*  ${v.title}
+❥︎ *𝙴𝙽𝙻𝙰𝙲𝙴:* ${v.url}
+❥︎ 𝙳𝚄𝚁𝙰𝙲𝙸𝙾́𝙽:* ${v.timestamp}
+❥︎ *𝚂𝚄𝙱𝙸𝙳𝙾:* ${v.ago}
+❥︎ *𝚅𝙸𝚂𝚃𝙰𝚂:* ${v.views}`}).join('\n\n••••••••••••••••••••••••••••••••••••\n\n')
 conn.sendFile(m.chat, results.all[0].thumbnail, 'yts.jpeg', textoInfo + '\n\n' + teks, fkontak, m)
 global.videoList.push(vids_);
 } catch {    
