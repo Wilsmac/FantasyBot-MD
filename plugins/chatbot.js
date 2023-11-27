@@ -37,7 +37,7 @@ if (/^reglas|normas|Reglas$/i.test(m.text) ) { //sin prefijo
 
  }*/
  
-if (/^¿que es un bot?|Que es un bot|Que es gatabot?$/i.test(m.text) ) { //sem prefixo
+if (/^¿que es un bot?|Que es un bot|Que es fantasybot?$/i.test(m.text) ) { //sem prefixo
     conn.reply(m.chat, `╭┄〔 *${wm}* 〕┄⊱
 ┆ ——————«•»——————
 ┆ ☆::¿𝐐𝐮𝐞́ 𝐞𝐬 𝐮𝐧 𝐁𝐨𝐭 𝐝𝐞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩?::☆
