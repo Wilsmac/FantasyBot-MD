@@ -54,7 +54,7 @@ const ttl = await yt.title
 const size = await yt.audio[q].fileSizeH
 await conn.sendMessage(m.chat, { audio: { url: dl_url }, mimetype: 'audio/mpeg', contextInfo: {
 externalAdReply: {
-title: ttl,
+title: '𝑨𝒒𝒖𝒊 𝒕𝒊𝒆𝒏𝒆 𝒔𝒖 𝒂𝒖𝒅𝒊𝒐',
 body: "",
 thumbnailUrl: yt_play[0].thumbnail, 
 mediaType: 1,
