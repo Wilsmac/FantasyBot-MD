@@ -153,7 +153,7 @@ opcion = await question(`╭${lineM}
 │ ${chalk.blueBright('▎')} ${chalk.bold.yellow(`npm run code ${chalk.italic.magenta('(Inicia con código de 8 dígitos)')}`)}
 │ ${chalk.blueBright('▎')} ${chalk.bold.yellow(`npm start ${chalk.italic.magenta('(Inicio predeterminado con opciones)')}`)}
 │ ${chalk.blueBright('╚─━━━━━━░★░━━━━━━─╝')} 
-╰${lineM}\n${chalk.bold.magentaBright('━──━─◈─━─━─━≫')}`)
+╰${lineM}\n${chalk.bold.magentaBright('--->')}`)
 //if (fs.existsSync(`./${authFile}/creds.json`)) {
 //console.log(chalk.bold.redBright(`PRIMERO BORRE EL ARCHIVO ${chalk.bold.greenBright("creds.json")} QUE SE ENCUENTRA EN LA CARPETA ${chalk.bold.greenBright(authFile)} Y REINICIE.`))
 //process.exit()
