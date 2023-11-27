@@ -6,20 +6,20 @@ let generateWAMessageFromContent = (await import(global.baileys)).default
 import { tiktokdl } from '@bochilteam/scraper'
 let handler = async (m, { conn, text, args, usedPrefix, command}) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
-if (!text) return conn.reply(m.chat, `${lenguajeGB['smsAvisoMG']()}𝘿𝙀𝘽𝙀 𝙄𝙉𝙂𝙍𝙀𝙎𝘼𝙍 𝙐𝙉 𝙀𝙉𝙇𝘼𝘾𝙀 𝘿𝙀 𝙏𝙄𝙆𝙏𝙊𝙆 𝙋𝘼𝙍𝘼 𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼𝙍 𝙀𝙇 𝙑𝙄𝘿𝙀𝙊\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊\n*${usedPrefix + command} https://vm.tiktok.com/ZMLEPnruc/?k=1*\n\n𝙔𝙊𝙐 𝙈𝙐𝙎𝙏 𝙀𝙉𝙏𝙀𝙍 𝘼 𝙏𝙄𝙆𝙏𝙊𝙆 𝙇𝙄𝙉𝙆 𝙏𝙊 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝙏𝙃𝙀 𝙑𝙄𝘿𝙀𝙊\n𝙀𝙓𝘼𝙈𝙋𝙇𝙀\n*${usedPrefix + command} https://vm.tiktok.com/ZMLEPnruc/?k=1*`, fkontak,  m)
-if (!/(?:https:?\/{2})?(?:w{3}|vm|vt|t)?\.?tiktok.com\/([^\s&]+)/gi.test(text)) return conn.reply(m.chat, `${lenguajeGB['smsAvisoFG']()}𝙀𝙇 𝙀𝙉𝙇𝘼𝘾𝙀 𝘿𝙀 𝙏𝙄𝙆𝙏𝙊𝙆 𝙀𝙎 𝙄𝙉𝘾𝙊𝙍𝙍𝙀𝘾𝙏𝙊, 𝙋𝙍𝙊𝘾𝙐𝙍𝙀 𝙌𝙐𝙀 𝙀𝙎𝙏𝙀 𝙑𝘼𝙇𝙄𝘿𝙊\n\n𝙏𝙃𝙀 𝙏𝙄𝙆𝙏𝙊𝙆 𝙇𝙄𝙉𝙆 𝙄𝙎 𝙄𝙉𝘾𝙊𝙍𝙍𝙀𝘾𝙏, 𝙈𝘼𝙆𝙀 𝙎𝙐𝙍𝙀 𝙄𝙏 𝙄𝙎 𝙑𝘼𝙇𝙄𝘿`, fkontak,  m)  
-await conn.reply(m.chat, `${lenguajeGB['smsAvisoEG']()}𝙋𝙍𝙊𝙉𝙏𝙊 𝙏𝙀𝙉𝘿𝙍𝘼 𝙀𝙇 𝙑𝙄𝘿𝙀𝙊 𝘿𝙀 𝙏𝙄𝙆𝙏𝙊𝙆 😸\n𝙎𝙊𝙊𝙉 𝙒𝙄𝙇𝙇 𝙃𝘼𝙑𝙀 𝙏𝙃𝙀 𝙏𝙄𝙆𝙏𝙊𝙆 𝙑𝙄𝘿𝙀𝙊 🥳`, fkontak,  m) 
+if (!text) return conn.reply(m.chat, `${lenguajeGB['smsAvisoMG']()}𝙳𝙴𝙱𝙴 𝙸𝙽𝙶𝚁𝙴𝚂𝙰𝚁 𝚄𝙽 𝙴𝙽𝙻𝙰𝙲𝙴 𝚅𝙰𝙻𝙸𝙳𝙾 𝙳𝙴 𝚃𝙸𝙺𝚃𝙾𝙺 𝙿𝙰𝚁𝙰 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝙴𝙻 𝚅𝙸𝙳𝙴𝙾\n𝙴𝙹𝙴𝙼𝙿𝙻𝙾:\n${usedPrefix + command} https://vm.tiktok.com/ZMLEPnruc/?k=`, fkontak,  m)
+if (!/(?:https:?\/{2})?(?:w{3}|vm|vt|t)?\.?tiktok.com\/([^\s&]+)/gi.test(text)) return conn.reply(m.chat, `${lenguajeGB['smsAvisoFG']()}𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 𝙳𝙴 𝚃𝙸𝙺𝚃𝙾𝙺 𝙴𝚂 𝙸𝙽𝚅𝙰𝙻𝙸𝙳𝙾́, 𝙿𝚁𝙾𝙲𝚄𝚁𝙴 𝙸𝙽𝙶𝚁𝙴𝚂𝙰𝚁 𝚄𝙽 𝙴𝙽𝙻𝙰𝙲𝙴 𝚅𝙰𝙻𝙸𝙳𝙾́ 𝙳𝙴 𝚃𝙸𝙺𝚃𝙾𝙺`, fkontak,  m)  
+await conn.reply(m.chat, `${lenguajeGB['smsAvisoEG']()}𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾 𝚂𝚄 𝚅𝙸́𝙳𝙴𝙾 𝙳𝙴 𝚃𝙸𝙺𝚃𝙾𝙺, 𝙰𝙶𝚄𝙰𝚁𝙳𝙴 𝚄𝙽 𝙼𝙾𝙼𝙴𝙽𝚃𝙾 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁.`, fkontak,  m) 
 try {
 const dataF = await tiktok.v1(args[0])
-conn.sendFile(m.chat, dataF.play, 'tiktok.mp4', `⛱️ 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 : 𝙐𝙎𝙀𝙍𝙉𝘼𝙈𝙀\n*${nickname}*\n${description ? '\n⛱️ 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝘾𝙄𝙊𝙉 : 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉\n*${description}*' : ''}\n${wm}`.trim(), m) 
+conn.sendFile(m.chat, dataF.play, 'tiktok.mp4', ` 𝚄𝚂𝚄𝙰𝚁𝙸𝙾\n*${nickname}*\n${description ? '\n⛱️ 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝘾𝙄𝙊𝙉\n*${description}*' : ''}\n${wm}`.trim(), m) 
 } catch (e1) {
 try {
 const tTiktok = await tiktokdlF(args[0])
-conn.sendFile(m.chat, tTiktok.video, 'tiktok.mp4', `⛱️ 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 : 𝙐𝙎𝙀𝙍𝙉𝘼𝙈𝙀\n*${nickname}*\n${description ? '\n⛱️ 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝘾𝙄𝙊𝙉 : 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉\n*${description}*' : ''}\n${wm}`.trim(), m) 
+conn.sendFile(m.chat, tTiktok.video, 'tiktok.mp4', `⛱️ 𝙐𝙎𝙐𝘼𝙍𝙄𝙊\n*${nickname}*\n${description ? '\n⛱️ 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝘾𝙄𝙊𝙉:\n*${description}*' : ''}\n${wm}`.trim(), m) 
 } catch (e2) {
 try {
 let p = await fg.tiktok(args[0]) 
-conn.sendFile(m.chat, p.nowm, 'tiktok.mp4', `⛱️ 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 : 𝙐𝙎𝙀𝙍𝙉𝘼𝙈𝙀\n*${nickname}*\n${description ? '\n⛱️ 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝘾𝙄𝙊𝙉 : 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉\n*${description}*' : ''}\n${wm}`.trim(), m)
+conn.sendFile(m.chat, p.nowm, 'tiktok.mp4', `⛱️ 𝙐𝙎𝙐𝘼𝙍𝙄𝙊:\n*${nickname}*\n${description ? '\n⛱️ 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝘾𝙄𝙊𝙉:\n*${description}*' : ''}\n${wm}`.trim(), m)
 } catch (e3) {
 try { 
 const { author: { nickname }, video, description } = await tiktokdl(args[0])
