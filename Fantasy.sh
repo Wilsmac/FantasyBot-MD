@@ -130,7 +130,7 @@ echo -e "\e[36m
  
  █░░▒█ █▀▀█ █▀▀█ █▄░▒█
  █▄▄▄█ █▄▄█ █▄▄▀ █▒█▒█
- ░▒█░░ █░▒█ █░▒█ █░░▀█\n\e[0m"
+ ░▒█░░ █░▒█ █░▒█ █░░▀█•\n\e[0m"
 
 if command -v yarn >/dev/null 2>&1; then
 echo -e "\033[01;33mYarn ya estaba instalado anteriormente.\033[0m"
