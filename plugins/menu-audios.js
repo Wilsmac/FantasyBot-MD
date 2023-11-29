@@ -71,6 +71,7 @@ let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardi
 
 let str = `
 ╭┄〔 *${wm}* 〕┄⊱
+┊ Hola ${m.sender.split(`@`)[0]}
 ┊ *🎶 ${lenguajeGB['smsConfi2']()} ${username}*
 ┊დ *${week}, ${date}*
 ┊დ *${lenguajeGB['smsBotonM4']()} » ${Object.keys(global.db.data.users).length}* 
@@ -78,7 +79,7 @@ let str = `
 ┊დ *${lenguajeGB['smsBotonM5']()} »* ${role}
 ┊დ *${lenguajeGB['smsBotonM6']()} » ${level}*
 ┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
-╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
+╰┄┄┄┄┄┄┄┄⊱
 
 ⠇ *${lenguajeGB['smsTex16']()}* 🔊
 ⠇ ${lenguajeGB['smsTex17']()}
