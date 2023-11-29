@@ -92,3 +92,4 @@ return m.reply(`${lenguajeCD['smsAvisoAG']()}${lenguajeCD['smsSoloOwner']()}`)
 return !0
 }
 
+
