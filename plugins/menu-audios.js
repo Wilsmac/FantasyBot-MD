@@ -71,7 +71,7 @@ let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardi
 
 let str = `
 ╭┄〔 *${wm}* 〕┄⊱
-┊ Hola ${m.sender.split('@')[0]}
+┊ Hola ${m.sender.split`@`[0]}
 ┊ *🎶 ${lenguajeGB['smsConfi2']()} ${username}*
 ┊დ *${week}, ${date}*
 ┊დ *${lenguajeGB['smsBotonM4']()} » ${Object.keys(global.db.data.users).length}* 
