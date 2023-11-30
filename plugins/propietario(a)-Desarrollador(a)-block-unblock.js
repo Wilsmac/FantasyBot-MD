@@ -1,3 +1,4 @@
+// código creado por @Wilmer OFC 
 // código parchado por @Wilmer
 // https://github.com/Wilsmac
 let handler = async (m, { text, conn, usedPrefix, command }) => {
