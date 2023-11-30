@@ -5,7 +5,7 @@ import axios from 'axios'
 import { youtubedl, youtubedlv2 } from '@bochilteam/scraper'
 let handler = async (m, { conn, command, args, text, usedPrefix }) => {
 let q, v, yt, dl_url, ttl, size, lolhuman, lolh, n, n2, n3, n4, cap, qu, currentQuality   
-if (!text) throw `${lenguajeGB['smsAvisoMG']()}*𝙴𝚂𝙲𝚁𝙸𝙱𝙰 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝙻𝙰 𝙲𝙰𝙽𝙲𝙸́𝙾𝙽 𝙾 𝚃𝙸𝚃𝚄𝙻𝙾, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n*${usedPrefix + command} taste - aribaul*`
+if (!text) throw `${lenguajeGB['smsAvisoMG']()}*𝙴𝚂𝙲𝚁𝙸𝙱𝙰 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝙻𝙰 𝙲𝙰𝙽𝙲𝙸́𝙾𝙽 𝙾 𝚃𝙸𝚃𝚄𝙻𝙾, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*\n*${usedPrefix + command} Ari Abdul - taste*`
 try {
 const yt_play = await search(args.join(" "))
 let additionalText = ''
