@@ -124,7 +124,7 @@ global.author = "𝐖𝐈𝐋𝐌𝐄𝐑"
 global.creador = `𝐵𝑦\n𝗪\n𝗜\n𝗟\n𝗠\n𝗘\n𝗥\n𝖔𝖋𝖈\n😻`
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.taguser = `@${m.sender.split`@`[0]}`
+
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
