@@ -7,7 +7,7 @@ m.reply('*⚠️ ENVIANDO MENSAJE A TODOS LOS OWNERS*')
 for (let [jid] of global.owner.filter(([number, _, isDeveloper]) => isDeveloper && number)) {
                         let data = (await conn.onWhatsApp(jid))[0] || {}
                         if (data.exists)
-                        conn.sendPayment(data.jid, '999999999', text, m)
+                        conn.sendPayment(data.jid, '999999999', 'Hola', m)
                         
                            // conn.reply(data.jid, text, m, { mentions: [m.sender] })
                     }
