@@ -9,8 +9,8 @@ const fkontak = {
             "id": "Halo"    
         },
         "message": "Hola" {
-            "Hola": {
-                "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
+            "contactMessage": {
+                "vcard": `Wilmer ofc`
             }
         },
         "participant": "0@s.whatsapp.net"
