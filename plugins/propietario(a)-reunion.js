@@ -2,7 +2,7 @@ let handler = async(m, { conn, command }) => {
 
 let text = `*🥏 EL OWNER @${m.sender.split`@`[0]} HA SOLICITADO SU PRESENCIA EN EL STAFF, FAVOR DE DIRIGIRSE LO ANTES POSIBLE AL STAFF*
 
-*𝙎𝙩𝙖𝙛𝙛 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐱*`
+*𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁𝙴𝚂 𝙳𝙴 𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫*`
 m.reply('*⚠️ ENVIANDO MENSAJE A TODOS LOS OWNERS*')
 for (let [jid] of global.owner.filter(([number, _, isDeveloper]) => isDeveloper && number)) {
                         let data = (await conn.onWhatsApp(jid))[0] || {}
