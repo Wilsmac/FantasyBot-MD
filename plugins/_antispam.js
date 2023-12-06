@@ -59,7 +59,7 @@ userData.messageCount += 1
 
 if (userData.messageCount >= messageLimit) {
 const mention = `@${sender.split("@")[0]}`
-const warningMessage = `*${mention} ESTA PROHIBIDO HACER SPAM DE MENSAJES!!*`
+const warningMessage = `*${mention} ESTA PROHIBIDO HACER SPAM DE MENSAJES!!\n𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫 𝒃𝒚 𝒘𝒊𝒍𝒎𝒆𝒓 𝒐𝒇𝒄*`
 if (userData.antiBan > 2) return
 await conn.reply(m.chat, warningMessage, m, { mentions: [m.sender] })  
 user.banned = true
