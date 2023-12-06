@@ -28,8 +28,7 @@ global.confirmCode = ""
 global.mods = []
 global.prems = ["50258115623"]
 //key de violetics
-global.Key360 = ["964f-0c75-7afc"]
-   
+global.Key360 = ["964f-0c75-7afc"]  
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga GataBot-MD
@@ -41,7 +40,7 @@ global.Key360 = ["964f-0c75-7afc"]
 //---------------------------------------------------
 
 global.lenguajeCD = es //idioma de FantasyBot-MD 
-
+global.wilmer = ""
 //--------------------------------------------------
 
 global.lenguajeGB = es //Idioma de FantasyBot-MD, Ejemplo: es | en | pt...
