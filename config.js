@@ -146,7 +146,7 @@ global.nnnttt2 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //Grupo 7 CO
 global.nnnttt3 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/CJ5nnvG1EpJAR1w7qntDKK' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' //A.T.M.M
-global.paypal = 'https://paypal.me'
+global.paypal = 'https://www.paypal.me/WilmerMacu'
 global.asistencia = 'Wa.me/50258115623' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
