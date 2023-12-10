@@ -29,7 +29,7 @@ if (/^buenos días|buenos dias|hola, buenos días$/i.test(m.text) ) { //sin pref
                 `*"El momento para todo es el ahora. ¡Despiértate y ten un gran día!"*`,
                 `*"No te limites en tu andar guiándote solamente por el camino de los demás, sé emprendedor y ve por donde no hay un camino para comenzar a dejar tus huellas, Buenos Dias"*`])}
   `.trim()
- conn.reply(m.chat, teks, m, { mentions: {mentionedjid: [m.sender] }})
+ conn.reply(m.chat, frontak, m)
 }
   
 
