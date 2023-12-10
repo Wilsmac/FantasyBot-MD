@@ -1,5 +1,5 @@
 //import { generateWAMessageFromContent } from '@adiwajshing/baileys'
-/*let generateWAMessageFromContent = (await import(global.baileys)).default
+let generateWAMessageFromContent = (await import(global.baileys)).default
 import * as fs from 'fs'
 let handler = async (m, { conn, text, participants, isOwner, isAdmin }) => {
 try {  
@@ -10,9 +10,6 @@ let msg = conn.cMod(m.chat, generateWAMessageFromContent(m.chat, { [m.quoted ? q
 await conn.relayMessage(m.chat, msg.message, { messageId: msg.key.id })
 
 } catch {  
-
-
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
 
     
 let users = participants.map(u => conn.decodeJid(u.id))
@@ -40,4 +37,4 @@ await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos
 handler.command = /^(hidetag|notificar|notify)$/i
 handler.group = true
 handler.admin = true
-export default handler*/
+export default handler
