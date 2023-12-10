@@ -1,4 +1,4 @@
-<h2>hola</h2>
+
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{FantasyBot-MD}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
 
@@ -120,7 +120,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="http://wa.me/50258115623" target="blank"><img src="https://img.shields.io/badge/UNIFINED-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-## `PROPIETARIO DEL BOT` 
+## <h2>`PROPIETARIO DEL BOT`</h2> 
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="300" height="300" alt="Wilsmac"/></a>
   
 `DESARROLLADOR DEL BOT (@WILMER OFC)`
