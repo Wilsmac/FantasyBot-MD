@@ -1,5 +1,5 @@
 //import { generateWAMessageFromContent } from '@adiwajshing/baileys'
-let generateWAMessageFromContent = (await import(global.baileys)).default
+/*let generateWAMessageFromContent = (await import(global.baileys)).default
 import * as fs from 'fs'
 let handler = async (m, { conn, text, participants, isOwner, isAdmin }) => {
 try {  
@@ -40,4 +40,4 @@ await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos
 handler.command = /^(hidetag|notificar|notify)$/i
 handler.group = true
 handler.admin = true
-export default handler
+export default handler*/
