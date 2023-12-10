@@ -16,7 +16,18 @@ conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
 if (/^buenos días|buenos dias|hola, buenos días$/i.test(m.text) ) { //sin prefijo
   let teks = `
-  ${pickRandom([`*“Comenzar el día orando y dando gracias a dios es a lo que yo llamo un buen amanecer.”*`, `*“Mientras empieces el día sonriendo, estás asegurando que será un buen día.”*`, `*“Aunque la lluvia haga un día muy oscuro, tu tienes el sol por dentro.”*`, `*“Gracias por hacerme tan especial, gracias por estar conmigo, que la bendición y el amor te acompañen en este nuevo día.”*`, `*“La vida y el tiempo son los mejores maestros. La vida nos enseña a aprovechar el tiempo y el tiempo nos enseña a valorar la vida.”*`, `*“No te limites en tu andar guiándote solamente por el camino de los demás, sé emprendedor y ve por donde no hay un camino para comenzar a dejar tus huellas, Buenos Dias”*`, `*“Buenos días a toda esa gente bonita que me rodea… bueno y a la fea también”*`, `*“Nacemos de nuevo con cada amanecer. Que este día sea el más importante de tu vida. Buenos días.”*`, `*“El brillo de cada día, no depende del sol sino de tu sonrisa que sale del corazón. Que tengas un feliz día.”*`, `*“Lo mejor de empezar un nuevo día es que voy a poder ver tu sonrisa, buenos día.”*`, `*“El momento para todo es el ahora. ¡Despiértate y ten un gran día!”*`, '*“No te limites en tu andar guiándote solamente por el camino de los demás, sé emprendedor y ve por donde no hay un camino para comenzar a dejar tus huellas, Buenos Dias”*' })]
+  ${pickRandom([`*"Comenzar el día orando y dando gracias a dios es a lo que yo llamo un buen amanecer."*`,
+                `*"Mientras empieces el día sonriendo, estás asegurando que será un buen día."*`, 
+                `**Aunque la lluvia haga un día muy oscuro, tu tienes el sol por dentro."*`,
+                `*"Gracias por hacerme tan especial, gracias por estar conmigo, que la bendición y el amor te acompañen en este nuevo día."*`,
+                `*"La vida y el tiempo son los mejores maestros. La vida nos enseña a aprovechar el tiempo y el tiempo nos enseña a valorar la vida."*`, 
+                `*"No te limites en tu andar guiándote solamente por el camino de los demás, sé emprendedor y ve por donde no hay un camino para comenzar a dejar tus huellas, Buenos Dias"*`,
+                `*"Buenos días a toda esa gente bonita que me rodea… bueno y a la fea también"*`,
+                `*"Nacemos de nuevo con cada amanecer. Que este día sea el más importante de tu vida. Buenos días."*`,
+                `*"El brillo de cada día, no depende del sol sino de tu sonrisa que sale del corazón. Que tengas un feliz día."*`,
+                `*"Lo mejor de empezar un nuevo día es que voy a poder ver tu sonrisa, buenos día."*`,
+                `*"El momento para todo es el ahora. ¡Despiértate y ten un gran día!"*`,
+                `*"No te limites en tu andar guiándote solamente por el camino de los demás, sé emprendedor y ve por donde no hay un camino para comenzar a dejar tus huellas, Buenos Dias"*`])}
   `.trim()
  conn.reply(m.chat, teks, m, { mentions: {mentionedjid: [m.sender] }})
 }
