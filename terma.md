@@ -21,7 +21,7 @@ Al utilizar este proyecto, ya sea como anfitrión de ejecución del código o co
 <details>
 <summary><b>DERECHOS DE PROPIEDAD INTELECTUAL</b></summary>
   
-> **Este repositorio, alojado originalmente en [GitHub](https://github.com/GataNina-Li/GataBot-MD), incluye complementos que han sido creados bajo la propiedad exclusiva de este repositorio.**
+> **Este repositorio, alojado originalmente en [GitHub](https://github.com/Wilsmac/FantasyBot-MD), incluye complementos que han sido creados bajo la propiedad exclusiva de este repositorio.**
 
 1.	`Complementos bajo Propiedad del Repositorio:` Los complementos contenidos en este repositorio han sido desarrollados y son propiedad exclusiva del mismo. Cualquier reproducción, distribución o uso no autorizado de estos complementos está estrictamente prohibido y sujeto a las leyes de propiedad intelectual.
 
@@ -40,7 +40,7 @@ Al utilizar este proyecto, ya sea como anfitrión de ejecución del código o co
 <details>
 <summary><b>COMPRAS Y PAGOS</b></summary>
   
-Dentro del código, no se solicita ningún pago real ni compra, a excepción de la posibilidad de realizar una donación voluntaria a través de [**PayPal**](https://paypal.me/OficialGD).<br /><br />
+Dentro del código, no se solicita ningún pago real ni compra, a excepción de la posibilidad de realizar una donación voluntaria a través de [**PayPal**](https://www.paypal.me/WilmerMacu).<br /><br />
 Cualquier otra interpretación de términos como "compra" o "pago" se refiere exclusivamente a acciones intangibles y ficticias que complementan el uso del bot para los usuarios. Estas acciones no conllevan transacciones financieras reales y se deben entender como parte de la experiencia de uso del servicio. La donación voluntaria, si se elige realizarla, es independiente de la funcionalidad principal del código y se destina únicamente al soporte y mejora continua del proyecto.
 </details>
 
