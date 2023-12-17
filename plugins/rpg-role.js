@@ -39,11 +39,11 @@ const roles = {
       '*DIAMANTE III* 💎': 37,
        '*DIAMANTE II* 💎': 38,
         '*DIAMANTE I* 💎': 39,
-    '*PRO EN GATABOT V* 😼': 40,
-     '*PRO EN GATABOT IV* 😼': 41,
-      '*PRO EN GATABOT III* 😼': 42,
-       '*PRO EN GATABOT II* 😼': 43,
-        '*PRO EN GATABOT I* 😼': 44,
+    '*EXPERTO EN FantasyBot-MD V*': 40,
+     '*EXPERTO EN FantasyBot-MD IV*': 41,
+      '*EXPERTO EN FantasyBot-MD III*': 42,
+       '*EXPERTO EN FantasyBot-MD II*': 43,
+        '*EXPERTO FantasyBot-MD I*': 44,
     '*SUPER PRO V* 🎩': 45,
      '*SUPER PRO IV* 🎩': 46,
       '*SUPER PRO III* 🎩': 47,
@@ -118,9 +118,9 @@ handler.before = function (m, text) {
                                                                                         : ((user.level >= 63) && (user.level <= 66)) ? '*DIAMANTE III* 💎'
                                                                                             : ((user.level >= 66) && (user.level <= 69)) ? '*DIAMANTE II* 💎'
                                                                                                 : ((user.level >= 69) && (user.level <= 71)) ? '*DIAMANTE I* 💎'
-                                                                                                    : ((user.level >= 71) && (user.level <= 74)) ? '*PRO EN GATABOT III* 😼'
-                                                                                                        : ((user.level >= 74) && (user.level <= 77)) ? '*PRO EN GATABOT II* 😼'
-                                                                                                            : ((user.level >= 77) && (user.level <= 80)) ? '*PRO EN GATABOT I* 😼'
+                                                                                                    : ((user.level >= 71) && (user.level <= 74)) ? '*EXPERTO EN FantasyBot-MD III*'
+                                                                                                        : ((user.level >= 74) && (user.level <= 77)) ? '*EXPERTO EN FantasyBot-MD II*'
+                                                                                                            : ((user.level >= 77) && (user.level <= 80)) ? '*EXPERTO EN FantasyBot-MD I*'
                                                                                                                 : ((user.level >= 80) && (user.level <= 83)) ? '*SUPER PRO III* 🎩'
                                                                                                                     : ((user.level >= 83) && (user.level <= 86)) ? '*SUPER PRO II* 🎩'
                                                                                                                         : ((user.level >= 86) && (user.level <= 89)) ? '*SUPER PRO I* 🎩'
