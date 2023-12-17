@@ -118,11 +118,11 @@ ${role}
 *SUPER PRO IV* 🎩
 *SUPER PRO V* 🎩
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*PRO EN GATABOT I* 😼
-*PRO EN GATABOT II* 😼
-*PRO EN GATABOT III* 😼
-*PRO EN GATABOT IV* 😼
-*PRO EN GATABOT V* 😼
+*EXPERTO EN FantasyBot-MD I*
+*EXPERTO EN FantasyBot-MD II*
+*EXPERTO EN FantasyBot-MD III*
+*EXPERTO EN FantasyBot-MD IV*
+*EXPERTO EN FantasyBot-MD V*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *DIAMANTE I* 💎
 *DIAMANTE II* 💎
