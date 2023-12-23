@@ -17,7 +17,7 @@ global.owner = [
 ["593968585383"], 
 ["51967997782"], 
 ["50246257139"]] 
-
+["59173315260"],
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
@@ -110,7 +110,7 @@ global.official = [ // Agregate si eres Owner
 ["19042018926", '𝑆𝑢𝑝𝑝𝑜𝑟𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
 ["14077384440", '𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝑂𝑓𝑖𝑐𝑖𝑎𝑙', 1],
 ["593968585383", '𝑂𝑤𝑛𝑒𝑟', 1]]
-
+["59173315260",  '𝑂𝑤𝑛𝑒𝑟', 2]]
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
