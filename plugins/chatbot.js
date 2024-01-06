@@ -28,8 +28,7 @@ if (/^Buenos días|buenos días|buenos dias|hola, buenos días$/i.test(m.text) )
                 `*"Lo mejor de empezar un nuevo día es que voy a poder ver tu sonrisa, buenos día."*`,
                 `*"El momento para todo es el ahora. ¡Despiértate y ten un gran día!"*`,
                 `*"No te limites en tu andar guiándote solamente por el camino de los demás, sé emprendedor y ve por donde no hay un camino para comenzar a dejar tus huellas, Buenos Dias"*`])}
-  `.trim()
- conn.reply(m.chat, teks, m, { mentions: {mentionedjid: [m.sender] }})
+  `, frontak, m)
 }
   
 
