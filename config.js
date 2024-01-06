@@ -182,7 +182,7 @@ global.exito = eg
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
-
+global.wilmercoins = `𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑪𝒐𝒊𝒏𝒔` 
 global.wm = "[♥︎𝐿] 𝑌 [☆𝑊] 𝑋 𝗦𝗜𝗘𝗠𝗣𝗥𝗘"
 global.igfg = "𝑭𝒂𝒏𝒕𝒂𝒔𝒚𝑩𝒐𝒕-𝑴𝑫"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
