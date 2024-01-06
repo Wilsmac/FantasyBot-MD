@@ -137,10 +137,7 @@ m.react('🚀')
 
 conn.sendMessage(m.chat, {text: text.trim(), mentions: [...text.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), contextInfo: { mentionedJid: [...text.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), "externalAdReply": {"showAdAttribution": true, "containsAutoReply": true, "renderLargerThumbnail": true, "title": wm, "containsAutoReply": true, "mediaType": 1, "thumbnail": imagen2, "mediaUrl": global.nn, "sourceUrl": global.nn}}}, {quoted: fproducto});
 
-} catch (e) {
-conn.reply(m.chat, `*🚩 Ocurrió un fallo*`, m, fake, )
-throw e}
-
+} 
 }
 handler.help = ['help']
 handler.tags = ['main']
