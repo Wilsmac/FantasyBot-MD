@@ -1,3 +1,6 @@
+   <summary>𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐜𝐢𝐨́𝐧</summary>
+<h3 align="center"> 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐜𝐢𝐨́𝐧 </h3>
+𝐡𝐨𝐥𝐚 :𝐃
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{FantasyBot-MD}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
