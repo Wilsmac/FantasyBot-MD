@@ -1,6 +1,6 @@
 ------------------
 > **aviso**: 𝐄𝐬𝐭𝐞 𝐛𝐨𝐭 𝐲𝐚 𝐞𝐡 𝐝𝐞𝐣𝐚𝐝𝐨 𝐝𝐞 𝐚𝐜𝐭𝐮𝐥𝐢𝐳𝐚𝐫, 𝐜𝐮𝐚𝐥𝐪𝐮𝐢𝐞𝐫 𝐞𝐫𝐫𝐨𝐫 𝐩𝐨𝐫 𝐟𝐚𝐯𝐨𝐫 𝐜𝐨𝐧𝐭𝐚𝐜𝐭𝐚𝐦𝐞.
-
+------------------
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{FantasyBot-MD}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
