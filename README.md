@@ -1,6 +1,9 @@
-   <summary>uwu</summary>
-<h3 align="center"> uwu </h3>
-𝐡𝐨𝐥𝐚 :𝐃
+</p 
+</details> 
+
+hola
+
+ <details> 
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{FantasyBot-MD}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
