@@ -104,7 +104,7 @@ loadChatgptDB();
 
 /* ------------------------------------------------*/
 
-global.authFile = `GataBotSession`
+global.authFile = `FantasySession`
 const {state, saveState, saveCreds} = await useMultiFileAuthState(global.authFile)
 const msgRetryCounterMap = (MessageRetryMap) => { };
 const msgRetryCounterCache = new NodeCache()
@@ -131,29 +131,29 @@ opcion = '1'
 }
 if (!methodCodeQR && !methodCode && !fs.existsSync(`./${authFile}/creds.json`)) {
 do {
-let lineM = '⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ 》'
+let lineM = '┎━─━──━──━─━─━─◈─━─━─━──━─━─━≫'
 opcion = await question(`╭${lineM}  
-┊ ${chalk.blueBright('╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')}
-┊ ${chalk.blueBright('┊')} ${chalk.blue.bgBlue.bold.cyan(mid.methodCode1)}
-┊ ${chalk.blueBright('╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')}   
-┊ ${chalk.blueBright('╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')}     
-┊ ${chalk.blueBright('┊')} ${chalk.green.bgMagenta.bold.yellow(mid.methodCode2)}
-┊ ${chalk.blueBright('┊')} ${chalk.bold.redBright(`⇢  ${mid.methodCode3} 1:`)} ${chalk.greenBright(mid.methodCode4)}
-┊ ${chalk.blueBright('┊')} ${chalk.bold.redBright(`⇢  ${mid.methodCode3} 2:`)} ${chalk.greenBright(mid.methodCode5)}
-┊ ${chalk.blueBright('╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')}
-┊ ${chalk.blueBright('╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')}     
-┊ ${chalk.blueBright('┊')} ${chalk.italic.magenta(mid.methodCode6)}
-┊ ${chalk.blueBright('┊')} ${chalk.italic.magenta(mid.methodCode7)}
-┊ ${chalk.blueBright('╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')} 
-┊ ${chalk.blueBright('╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')}    
-┊ ${chalk.blueBright('┊')} ${chalk.red.bgRed.bold.green(mid.methodCode8)}
-┊ ${chalk.blueBright('┊')} ${chalk.italic.cyan(mid.methodCode9)}
-┊ ${chalk.blueBright('┊')} ${chalk.italic.cyan(mid.methodCode10)}
-┊ ${chalk.blueBright('┊')} ${chalk.bold.yellow(`npm run qr ${chalk.italic.magenta(`(${mid.methodCode12})`)}`)}
-┊ ${chalk.blueBright('┊')} ${chalk.bold.yellow(`npm run code ${chalk.italic.magenta(`(${mid.methodCode13})`)}`)}
-┊ ${chalk.blueBright('┊')} ${chalk.bold.yellow(`npm start ${chalk.italic.magenta(`(${mid.methodCode14})`)}`)}
-┊ ${chalk.blueBright('╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')} 
-╰${lineM}\n${chalk.bold.magentaBright('---> ')}`)
+│ ${chalk.blueBright('╔════❖•ೋ°Wilmer ofc°ೋ•❖════╗')}
+│ ${chalk.blueBright('┊')} ${chalk.blue.bgBlue.bold.cyan('MÉTODO DE VINCULACIÓN')}
+│ ${chalk.blueBright('╚════❖•ೋ° ♥️ °ೋ•❖════╝')}   
+│ ${chalk.blueBright('╔─━━━━━━░ofc░━━━━━━─╗')}     
+│ ${chalk.blueBright('▎')} ${chalk.green.bgMagenta.bold.yellow('¿CÓMO DESEA CONECTARSE?')}
+│ ${chalk.blueBright('▎')} ${chalk.bold.redBright('⇢  Opción 1:')} ${chalk.greenBright('Código QR.')}
+│ ${chalk.blueBright('▎')} ${chalk.bold.redBright('⇢  Opción 2:')} ${chalk.greenBright('Código de 8 digitos.')}
+│ ${chalk.blueBright('╚─━━━━━━░★░━━━━━━─╝')}
+│ ${chalk.blueBright('╔─━━━━━━░ofc░━━━━━━─╗')}     
+│ ${chalk.blueBright('▎')} ${chalk.italic.magenta('Escriba sólo el número de')}
+│ ${chalk.blueBright('▎')} ${chalk.italic.magenta('la opción para conectarse.')}
+│ ${chalk.blueBright('╚─━━━━━━░★░━━━━━━─╝')} 
+│ ${chalk.blueBright('╔─━━━━━━░ofc░━━━━━━─╗')}    
+│ ${chalk.blueBright('▎')} ${chalk.red.bgRed.bold.green('CONSEJO:')}
+│ ${chalk.blueBright('▎')} ${chalk.italic.cyan('Si usa Termux, Replit, Linux, o Windows')}
+│ ${chalk.blueBright('▎')} ${chalk.italic.cyan('Use estos comandos para una ejecución directa:')}
+│ ${chalk.blueBright('▎')} ${chalk.bold.yellow(`npm run qr ${chalk.italic.magenta('(Inicia con código QR)')}`)}
+│ ${chalk.blueBright('▎')} ${chalk.bold.yellow(`npm run code ${chalk.italic.magenta('(Inicia con código de 8 dígitos)')}`)}
+│ ${chalk.blueBright('▎')} ${chalk.bold.yellow(`npm start ${chalk.italic.magenta('(Inicio predeterminado con opciones)')}`)}
+│ ${chalk.blueBright('╚─━━━━━━░★░━━━━━━─╝')} 
+╰${lineM}\n${chalk.bold.magentaBright('--->')}`)
 //if (fs.existsSync(`./${authFile}/creds.json`)) {
 //console.log(chalk.bold.redBright(`PRIMERO BORRE EL ARCHIVO ${chalk.bold.greenBright("creds.json")} QUE SE ENCUENTRA EN LA CARPETA ${chalk.bold.greenBright(authFile)} Y REINICIE.`))
 //process.exit()
@@ -166,7 +166,7 @@ const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 mobile: MethodMobile, 
-browser: opcion == '1' ? ['GataBot-MD', 'Edge', '2.0.0'] : methodCodeQR ? ['GataBot-MD', 'Edge', '2.0.0'] : ['Chrome (Linux)', '', ''],
+browser: opcion == '1' ? ['FantasyBot-MD', 'Edge', '2.0.0'] : methodCodeQR ? ['FantasyBot-MD', 'Edge', '2.0.0'] : ['Chrome (Linux)', '', ''],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -229,7 +229,7 @@ conn.well = false
 if (!opts['test']) {
 if (global.db) setInterval(async () => {
 if (global.db.data) await global.db.write()
-if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 'tmp', "GataJadiBot"], tmp.forEach(filename => cp.spawn('find', [filename, '-amin', '2', '-type', 'f', '-delete'])))}, 30 * 1000)}
+if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 'tmp', "JadiBot"], tmp.forEach(filename => cp.spawn('find', [filename, '-amin', '2', '-type', 'f', '-delete'])))}, 30 * 1000)}
 
 if (global.obtenerQrWeb === 1) (await import('./server.js')).default(global.conn, PORT)
 
@@ -253,7 +253,7 @@ if (connection == 'open') {
 console.log(chalk.bold.greenBright(mid.mConexion))}
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode
 if (reason == 405) {
-await fs.unlinkSync("./GataBotSession/" + "creds.json")
+await fs.unlinkSync("./FantasySession/" + "creds.json")
 console.log(chalk.bold.redBright(mid.mConexionOFF)) 
 process.send('reset')}
 if (connection === 'close') {
@@ -420,23 +420,23 @@ unlinkSync(filePath)})
 
 function purgeSession() {
 let prekey = []
-let directorio = readdirSync("./GataBotSession")
+let directorio = readdirSync("./FantasySession")
 let filesFolderPreKeys = directorio.filter(file => {
 return file.startsWith('pre-key-')
 })
 prekey = [...prekey, ...filesFolderPreKeys]
 filesFolderPreKeys.forEach(files => {
-unlinkSync(`./GataBotSession/${files}`)
+unlinkSync(`./FantasySession/${files}`)
 })
 } 
 
 function purgeSessionSB() {
 try {
-const listaDirectorios = readdirSync('./GataJadiBot/');
+const listaDirectorios = readdirSync('./JadiBot/');
 let SBprekey = [];
 listaDirectorios.forEach(directorio => {
 if (statSync(`./GataJadiBot/${directorio}`).isDirectory()) {
-const DSBPreKeys = readdirSync(`./GataJadiBot/${directorio}`).filter(fileInDir => {
+const DSBPreKeys = readdirSync(`./JadiBot/${directorio}`).filter(fileInDir => {
 return fileInDir.startsWith('pre-key-')
 })
 SBprekey = [...SBprekey, ...DSBPreKeys];
@@ -454,7 +454,7 @@ console.log(chalk.bold.red(lenguajeGB.smspurgeSessionSB3() + err))
 }}
 
 function purgeOldFiles() {
-const directories = ['./GataBotSession/', './GataJadiBot/']
+const directories = ['./FantasySession/', './JadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
