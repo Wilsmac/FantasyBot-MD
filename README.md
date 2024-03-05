@@ -1,6 +1,8 @@
 ------------------
 > **aviso**: 𝐄𝐬𝐭𝐞 𝐛𝐨𝐭 𝐲𝐚 𝐝𝐞𝐣𝐨 𝐝𝐞 𝒇𝒖𝒏𝒄𝒊𝒐𝒏𝒂𝒓 𝐩𝐨𝐫 𝐦𝐚𝐧𝐭𝐞𝐧𝐢𝐦𝐢𝐞𝐧𝐭𝐨, 𝐩𝐞𝐝𝐢𝐦𝐨𝐬 𝐪𝐮𝐞 𝐧𝐨 𝐥𝐨 𝐝𝐞𝐬𝐜𝐚𝐫𝐠𝐮𝐞𝐧 𝐪𝐮𝐞 𝐲𝐚 𝐧𝐨 𝐞𝐬𝐭𝐚 𝐞𝐧 𝐮𝐬𝐨, 𝐬𝐢 𝐝𝐞 𝐯𝐞𝐫𝐝𝐚𝐝 𝐥𝐨 𝐪𝐮𝐢𝐞𝐫𝐞𝐧 𝐜𝐨𝐧𝐭𝐚𝐜𝐭𝐚𝐦𝐞. 𝐦𝐮𝐜𝐡𝐚𝐬 𝐠𝐫𝐚𝐜𝐢𝐚𝐬 𝐪𝐮𝐞𝐫𝐢𝐝𝐨𝐬 𝐮𝐬𝐮𝐚𝐫𝐢𝐨𝐬 𝐩𝐨𝐫 𝐬𝐮 𝐩𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐢𝐚.
 ------------------
+<a href="https://github.com/Wilsmac/FantasyBot-MD-v1" target="black"><img src="https://img.shields.io/badge/♥️-click el nuevo repositorio del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
+
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{FantasyBot-MD}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
