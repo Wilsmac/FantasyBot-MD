@@ -78,7 +78,7 @@ global.db.chain = chain(global.db.data);
 };
 loadDatabase();
 
-/* ------------------------------------------------*/
+/* -----------------------------------------------*/
 
 global.chatgpt = new Low(new JSONFile(path.join(__dirname, '/db/chatgpt.json')));
 global.loadChatgptDB = async function loadChatgptDB() {
