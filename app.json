@@ -3,7 +3,7 @@
   "description": "Super Bot WhatsApp",
   "repository": "https://github.com/Wilsmac/FantasyBot-MD",
   "logo": "https://i.imgur.com/8fK4h6F.jpg",
-  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "keywords": ["java", "botdudjdjkekd", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
